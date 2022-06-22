@@ -1,0 +1,737 @@
+fpg-./producent_konsument/uruchom.sh: liczba towarów 100, prefiks magazynu mag_fifo_00:27:42, rozmiar magazynu 3,     czas konsumpcji losowy, czas produkcji losowy.
+2021-05-27 00:27:42.606103442 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO ---Kryterium zatrzymania: 100, pojemność magazynu: 3, czas realizacji losowy ułamek sek.---
+2021-05-27 00:27:42.606393532 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO ---Kryterium zatrzymania: 100, pojemność magazynu: 3, czas realizacji losowy ułamek sek.---
+2021-05-27 00:27:42.614391507 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 1 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:42.617949955 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 1 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:42.639100553 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 1 Wyprodukowałem towar przez 0.02333 sek.
+2021-05-27 00:27:42.647733955 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 1 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:42.653650414 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 1 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.658981250 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 1 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:42.659818493 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 1 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:42.667812324 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 1 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.690238790 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 1 Skonsumowałem towar przez 0.014968 sek.
+2021-05-27 00:27:42.692458536 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 2 Wyprodukowałem towar przez 0.025482 sek.
+2021-05-27 00:27:42.696615923 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 2 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:42.700488482 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 2 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:42.708317893 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 2 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:42.712996947 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 2 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.718224491 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 2 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:42.717408349 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 2 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:42.725156024 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 2 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.746074392 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 2 Skonsumowałem towar przez 0.012559 sek.
+2021-05-27 00:27:42.751756674 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 3 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:42.755399074 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 3 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:42.815930330 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 3 Wyprodukowałem towar przez 0.09077 sek.
+2021-05-27 00:27:42.821071460 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 3 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:42.826098049 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 3 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.840293711 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 3 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:42.840305543 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 3 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:42.847784879 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 3 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.881495164 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 3 Skonsumowałem towar przez 0.024446 sek.
+2021-05-27 00:27:42.886322333 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 4 Wyprodukowałem towar przez 0.03905 sek.
+2021-05-27 00:27:42.887706349 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 4 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:42.891318884 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 4 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:42.899898428 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 4 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:42.904854719 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 4 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.909740793 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 4 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:42.909647895 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 4 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:42.916960098 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 4 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.948493222 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 5 Wyprodukowałem towar przez 0.031849 sek.
+2021-05-27 00:27:42.948494614 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 4 Skonsumowałem towar przez 0.023853 sek.
+2021-05-27 00:27:42.953767594 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 5 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:42.958653866 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 5 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.964064178 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 5 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:42.969278372 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 5 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:42.993129948 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 6 Wyprodukowałem towar przez 0.027317 sek.
+2021-05-27 00:27:42.993131904 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 5 Skonsumowałem towar przez 0.016611 sek.
+2021-05-27 00:27:42.998938821 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 6 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.003923919 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 6 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.010155122 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 6 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.016473117 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 6 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.023646543 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 7 Wyprodukowałem towar przez 0.011746 sek.
+2021-05-27 00:27:43.028823398 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 7 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.033726990 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 7 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.034456442 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 6 Skonsumowałem towar przez 0.010271 sek.
+2021-05-27 00:27:43.040289271 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 7 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.047589692 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 7 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.060737313 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 8 Wyprodukowałem towar przez 0.02011 sek.
+2021-05-27 00:27:43.065955890 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 8 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.070617637 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 8 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.109965025 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 9 Wyprodukowałem towar przez 0.031440 sek.
+2021-05-27 00:27:43.118164068 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 9 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.121555612 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 9 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:43.143729711 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 7 Skonsumowałem towar przez 0.08681 sek.
+2021-05-27 00:27:43.150854042 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 8 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.156172229 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 8 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.183094192 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 9 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:43.184305292 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 8 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:43.194620862 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 9 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.214350620 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 8 Skonsumowałem towar przez 0.018510 sek.
+2021-05-27 00:27:43.220547675 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 9 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.225515353 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 9 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.247815128 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 10 Wyprodukowałem towar przez 0.04657 sek.
+2021-05-27 00:27:43.254005497 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 10 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.258864897 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 10 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.266498823 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 9 Skonsumowałem towar przez 0.03428 sek.
+2021-05-27 00:27:43.271831212 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 10 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.276777751 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 10 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.297523391 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 11 Wyprodukowałem towar przez 0.032035 sek.
+2021-05-27 00:27:43.302625827 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 11 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.307309232 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 11 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.328082172 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 12 Wyprodukowałem towar przez 0.014552 sek.
+2021-05-27 00:27:43.333051509 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 12 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.336324610 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 12 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:43.370404654 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 10 Skonsumowałem towar przez 0.08660 sek.
+2021-05-27 00:27:43.376456162 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 11 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.381177803 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 11 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.406261300 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 12 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:43.407071033 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 11 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:43.415811963 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 12 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.443072293 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 11 Skonsumowałem towar przez 0.026703 sek.
+2021-05-27 00:27:43.448469484 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 12 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.451983142 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 13 Wyprodukowałem towar przez 0.029732 sek.
+2021-05-27 00:27:43.453579768 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 12 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.460031023 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 13 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.464971789 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 13 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.471755508 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 12 Skonsumowałem towar przez 0.010597 sek.
+2021-05-27 00:27:43.477006412 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 13 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.482865080 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 13 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.506989041 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 13 Skonsumowałem towar przez 0.017338 sek.
+2021-05-27 00:27:43.515516140 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 14 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.518910021 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 14 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:43.533563853 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 14 Wyprodukowałem towar przez 0.06177 sek.
+2021-05-27 00:27:43.539136456 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 14 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.543751359 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 14 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.548806501 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 14 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:43.549038355 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 14 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:43.555650900 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 14 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.570166344 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 15 Wyprodukowałem towar przez 0.014625 sek.
+2021-05-27 00:27:43.575465295 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 15 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.580281616 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 15 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.599731487 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 16 Wyprodukowałem towar przez 0.012913 sek.
+2021-05-27 00:27:43.605096900 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 16 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.608630314 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 16 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:43.646749949 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 14 Skonsumowałem towar przez 0.08421 sek.
+2021-05-27 00:27:43.653297646 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 15 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.658598461 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 15 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.689090108 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 16 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:43.690690068 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 15 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:43.701085594 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 16 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.722256375 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 15 Skonsumowałem towar przez 0.020392 sek.
+2021-05-27 00:27:43.724282428 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 17 Wyprodukowałem towar przez 0.016107 sek.
+2021-05-27 00:27:43.728067024 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 16 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.733187087 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 16 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.738778571 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 17 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.743503001 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 17 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.752382413 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 16 Skonsumowałem towar przez 0.012684 sek.
+2021-05-27 00:27:43.757607205 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 17 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.765133073 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 17 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.768067799 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 18 Wyprodukowałem towar przez 0.018080 sek.
+2021-05-27 00:27:43.773639165 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 18 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.778645290 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 18 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.796920123 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 17 Skonsumowałem towar przez 0.024512 sek.
+2021-05-27 00:27:43.799425321 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 19 Wyprodukowałem towar przez 0.013763 sek.
+2021-05-27 00:27:43.802983384 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 18 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.807845374 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 18 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.814316897 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 19 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.834281879 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 18 Skonsumowałem towar przez 0.018335 sek.
+2021-05-27 00:27:43.856005188 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 19 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.862016582 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 19 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.866754227 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 19 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.876614762 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 20 Wyprodukowałem towar przez 0.013336 sek.
+2021-05-27 00:27:43.881901103 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 20 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.886515269 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 19 Skonsumowałem towar przez 0.012270 sek.
+2021-05-27 00:27:43.886718820 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 20 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.893451520 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 20 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.898579835 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 20 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.915864699 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 21 Wyprodukowałem towar przez 0.019842 sek.
+2021-05-27 00:27:43.921317890 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 21 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.926319043 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 21 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.932936307 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 20 Skonsumowałem towar przez 0.027633 sek.
+2021-05-27 00:27:43.938175608 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 21 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:43.943422354 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 21 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.952826438 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 22 Wyprodukowałem towar przez 0.019059 sek.
+2021-05-27 00:27:43.958153461 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 22 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:43.963316396 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 22 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:43.990157661 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 23 Wyprodukowałem towar przez 0.019374 sek.
+2021-05-27 00:27:43.995525465 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 23 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:43.999218174 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 23 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:44.020977052 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 21 Skonsumowałem towar przez 0.06979 sek.
+2021-05-27 00:27:44.026465808 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 22 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:44.031385631 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 22 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.056962260 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 23 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.057869828 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 22 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.066826412 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 23 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.089926911 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 24 Wyprodukowałem towar przez 0.016133 sek.
+2021-05-27 00:27:44.094557142 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 22 Skonsumowałem towar przez 0.028222 sek.
+2021-05-27 00:27:44.095237893 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 24 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:44.098651838 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 24 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:44.105137961 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 23 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:44.110957160 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 23 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.151384481 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 23 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.155055424 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 24 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.162432660 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 24 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.185459394 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 23 Skonsumowałem towar przez 0.024393 sek.
+2021-05-27 00:27:44.190911438 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 24 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:44.195705122 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 24 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.195722018 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 25 Wyprodukowałem towar przez 0.026559 sek.
+2021-05-27 00:27:44.201524516 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 25 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:44.206553093 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 25 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.215977672 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 24 Skonsumowałem towar przez 0.013566 sek.
+2021-05-27 00:27:44.221101406 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 25 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:44.226337171 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 25 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.236069566 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 26 Wyprodukowałem towar przez 0.022659 sek.
+2021-05-27 00:27:44.241300391 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 26 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:44.246360551 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 26 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.268864083 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 27 Wyprodukowałem towar przez 0.015500 sek.
+2021-05-27 00:27:44.274572403 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 27 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:44.278022074 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 27 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:44.301384930 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 25 Skonsumowałem towar przez 0.06710 sek.
+2021-05-27 00:27:44.306980353 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 26 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:44.311763646 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 26 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.344175480 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 27 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.345103630 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 26 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.352956833 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 27 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.383237242 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 26 Skonsumowałem towar przez 0.026419 sek.
+2021-05-27 00:27:44.390315111 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 27 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:44.396150067 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 27 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.402967616 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 28 Wyprodukowałem towar przez 0.04340 sek.
+2021-05-27 00:27:44.408405814 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 28 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:44.413337743 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 28 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.429941873 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 27 Skonsumowałem towar przez 0.026486 sek.
+2021-05-27 00:27:44.435123206 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 28 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:44.439789775 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 28 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.452992758 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 29 Wyprodukowałem towar przez 0.02713 sek.
+2021-05-27 00:27:44.460628280 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 29 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:44.466382682 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 29 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.502613850 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 30 Wyprodukowałem towar przez 0.027924 sek.
+2021-05-27 00:27:44.508552763 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 30 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:44.512187413 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 30 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:44.544694527 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 28 Skonsumowałem towar przez 0.09814 sek.
+2021-05-27 00:27:44.551016561 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 29 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:44.556484907 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 29 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.585474688 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 30 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.587457704 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 29 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.596097594 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 30 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.620745207 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 31 Wyprodukowałem towar przez 0.017346 sek.
+2021-05-27 00:27:44.627042410 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 31 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:44.630582871 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 31 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:44.652848867 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 29 Skonsumowałem towar przez 0.05630 sek.
+2021-05-27 00:27:44.658924815 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 30 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:44.663968328 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 30 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.690360289 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 31 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.691437840 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 30 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.699979984 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 31 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.720098803 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 32 Wyprodukowałem towar przez 0.012753 sek.
+2021-05-27 00:27:44.726429423 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 32 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:44.730320390 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 32 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:44.738998787 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 30 Skonsumowałem towar przez 0.03874 sek.
+2021-05-27 00:27:44.744074251 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 31 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:44.748814865 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 31 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.778877086 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 32 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.780361679 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 31 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.788383339 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 32 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.815249998 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 33 Wyprodukowałem towar przez 0.019706 sek.
+2021-05-27 00:27:44.820923932 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 33 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:44.821899455 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 31 Skonsumowałem towar przez 0.03257 sek.
+2021-05-27 00:27:44.824462757 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 33 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:44.831416667 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 32 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:44.836828834 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 32 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.866386674 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 32 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.866316861 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 33 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.875709088 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 33 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.904725122 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 34 Wyprodukowałem towar przez 0.021729 sek.
+2021-05-27 00:27:44.910276251 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 34 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:44.913831445 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 34 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:44.936998277 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 32 Skonsumowałem towar przez 0.0609 sek.
+2021-05-27 00:27:44.942418674 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 33 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:44.947423146 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 33 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:44.974905265 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 34 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.975261947 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 33 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:44.983714319 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 34 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.001902189 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 33 Skonsumowałem towar przez 0.017649 sek.
+2021-05-27 00:27:45.007924959 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 34 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.013091118 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 34 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.036347830 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 35 Wyprodukowałem towar przez 0.04520 sek.
+2021-05-27 00:27:45.040390800 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 34 Skonsumowałem towar przez 0.019942 sek.
+2021-05-27 00:27:45.041701902 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 35 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.046627734 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 35 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.058590887 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 35 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.064038141 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 35 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.081442454 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 36 Wyprodukowałem towar przez 0.021934 sek.
+2021-05-27 00:27:45.087383355 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 36 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.092888733 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 36 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.095355809 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 35 Skonsumowałem towar przez 0.023488 sek.
+2021-05-27 00:27:45.100869612 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 36 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.105515384 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 36 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.119153308 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 37 Wyprodukowałem towar przez 0.017710 sek.
+2021-05-27 00:27:45.125072596 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 37 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.130480630 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 37 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.161344725 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 38 Wyprodukowałem towar przez 0.022773 sek.
+2021-05-27 00:27:45.167356925 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 38 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.170825325 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 38 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:45.211527491 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 36 Skonsumowałem towar przez 0.09854 sek.
+2021-05-27 00:27:45.217735899 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 37 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.222626180 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 37 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.252579736 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 38 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:45.253257953 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 37 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:45.262776523 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 38 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.278693287 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 37 Skonsumowałem towar przez 0.016291 sek.
+2021-05-27 00:27:45.284568084 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 38 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.289605121 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 39 Wyprodukowałem towar przez 0.019678 sek.
+2021-05-27 00:27:45.290186657 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 38 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.296337860 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 39 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.301097693 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 39 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.330140215 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 38 Skonsumowałem towar przez 0.03105 sek.
+2021-05-27 00:27:45.336511629 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 39 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.341872192 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 39 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.364927992 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 40 Wyprodukowałem towar przez 0.05705 sek.
+2021-05-27 00:27:45.368916123 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 39 Skonsumowałem towar przez 0.01839 sek.
+2021-05-27 00:27:45.370948211 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 40 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.376072412 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 40 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.382368373 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 40 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.387679047 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 40 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.402421945 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 41 Wyprodukowałem towar przez 0.018778 sek.
+2021-05-27 00:27:45.418458434 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 40 Skonsumowałem towar przez 0.017912 sek.
+2021-05-27 00:27:45.419158288 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 41 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.425027302 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 41 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.430819277 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 41 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.435928491 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 41 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.457301290 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 42 Wyprodukowałem towar przez 0.024850 sek.
+2021-05-27 00:27:45.463864041 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 42 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.464577345 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 41 Skonsumowałem towar przez 0.020824 sek.
+2021-05-27 00:27:45.469556839 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 42 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.476603853 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 42 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.482270861 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 42 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.517064807 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 42 Skonsumowałem towar przez 0.027562 sek.
+2021-05-27 00:27:45.522528048 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 43 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.525980918 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 43 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:45.563017915 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 43 Wyprodukowałem towar przez 0.08453 sek.
+2021-05-27 00:27:45.568346099 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 43 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.572985407 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 43 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.577291031 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 43 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:45.578352735 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 43 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:45.586106456 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 43 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.600863053 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 44 Wyprodukowałem towar przez 0.01459 sek.
+2021-05-27 00:27:45.606266558 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 44 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.611308150 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 44 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.630712958 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 45 Wyprodukowałem towar przez 0.011930 sek.
+2021-05-27 00:27:45.636925791 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 45 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.639465995 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 43 Skonsumowałem towar przez 0.04508 sek.
+2021-05-27 00:27:45.640946868 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 45 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:45.648808257 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 44 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.654366278 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 44 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.682077093 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 45 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:45.682881300 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 44 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:45.690847731 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 45 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.703101945 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 44 Skonsumowałem towar przez 0.012221 sek.
+2021-05-27 00:27:45.708417409 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 45 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.713955882 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 45 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.744143383 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 45 Skonsumowałem towar przez 0.022279 sek.
+2021-05-27 00:27:45.750525477 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 46 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.754296234 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 46 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:45.776629251 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 46 Wyprodukowałem towar przez 0.07894 sek.
+2021-05-27 00:27:45.782071404 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 46 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.788005279 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 46 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.793187749 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 46 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:45.792987355 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 46 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:45.799915781 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 46 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.819429439 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 46 Skonsumowałem towar przez 0.012792 sek.
+2021-05-27 00:27:45.824682159 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 47 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.829101725 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 47 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:45.830723261 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 47 Wyprodukowałem towar przez 0.030422 sek.
+2021-05-27 00:27:45.837277948 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 47 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.843771024 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 47 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.848728486 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 47 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:45.850475125 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 47 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:45.857917431 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 47 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.885371148 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 47 Skonsumowałem towar przez 0.019888 sek.
+2021-05-27 00:27:45.888922107 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 48 Wyprodukowałem towar przez 0.030336 sek.
+2021-05-27 00:27:45.890885276 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 48 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.894344471 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 48 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:45.901844220 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 48 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:45.907179086 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 48 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.911488382 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 48 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:45.912663935 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 48 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:45.920253160 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 48 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.940977389 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 49 Wyprodukowałem towar przez 0.020521 sek.
+2021-05-27 00:27:45.945458576 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 48 Skonsumowałem towar przez 0.0185 sek.
+2021-05-27 00:27:45.947058165 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 49 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.952698818 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 49 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.958359475 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 49 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:45.962915485 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 49 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:45.984307699 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 50 Wyprodukowałem towar przez 0.023952 sek.
+2021-05-27 00:27:45.990834583 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 50 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:45.992976060 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 49 Skonsumowałem towar przez 0.02005 sek.
+2021-05-27 00:27:45.996550618 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 50 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.002256109 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 50 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.007596184 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 50 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.039095151 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 50 Skonsumowałem towar przez 0.024676 sek.
+2021-05-27 00:27:46.045655106 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 51 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.049267472 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 51 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:46.081650242 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 51 Wyprodukowałem towar przez 0.07779 sek.
+2021-05-27 00:27:46.087399417 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 51 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.092576585 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 51 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.096674030 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 51 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:46.098419396 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 51 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:46.105776269 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 51 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.137235746 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 52 Wyprodukowałem towar przez 0.030828 sek.
+2021-05-27 00:27:46.138272221 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 51 Skonsumowałem towar przez 0.025166 sek.
+2021-05-27 00:27:46.143082697 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 52 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.148066737 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 52 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.153717998 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 52 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.159233539 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 52 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.168506227 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 53 Wyprodukowałem towar przez 0.013347 sek.
+2021-05-27 00:27:46.174072702 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 53 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.179446882 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 53 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.230310812 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 54 Wyprodukowałem towar przez 0.04375 sek.
+2021-05-27 00:27:46.236315461 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 54 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.240099728 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 54 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:46.250574899 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 52 Skonsumowałem towar przez 0.08361 sek.
+2021-05-27 00:27:46.256960454 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 53 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.262257503 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 53 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.290875499 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 54 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:46.291934127 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 53 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:46.299880275 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 54 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.326504047 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 53 Skonsumowałem towar przez 0.025503 sek.
+2021-05-27 00:27:46.332518151 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 54 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.337947352 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 54 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.339208512 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 55 Wyprodukowałem towar przez 0.0322 sek.
+2021-05-27 00:27:46.344862168 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 55 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.350553419 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 55 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.373325459 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 54 Skonsumowałem towar przez 0.027329 sek.
+2021-05-27 00:27:46.377059123 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 56 Wyprodukowałem towar przez 0.017054 sek.
+2021-05-27 00:27:46.378882159 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 55 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.384464336 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 55 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.389592630 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 56 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.394636052 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 56 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.414237052 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 55 Skonsumowałem towar przez 0.023090 sek.
+2021-05-27 00:27:46.419733463 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 56 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.419980618 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 57 Wyprodukowałem towar przez 0.017916 sek.
+2021-05-27 00:27:46.424520519 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 56 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.429754218 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 57 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.434641915 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 57 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.447521501 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 56 Skonsumowałem towar przez 0.016458 sek.
+2021-05-27 00:27:46.452854260 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 57 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.457526335 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 57 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.462086587 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 58 Wyprodukowałem towar przez 0.020627 sek.
+2021-05-27 00:27:46.467469635 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 58 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.472428667 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 58 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.492464905 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 59 Wyprodukowałem towar przez 0.01271 sek.
+2021-05-27 00:27:46.494422471 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 57 Skonsumowałem towar przez 0.029947 sek.
+2021-05-27 00:27:46.498356024 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 59 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.501895486 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 59 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:46.508714988 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 58 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.513484648 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 58 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.541750244 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 58 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:46.542595856 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 59 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:46.550675004 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 59 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.599906784 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 58 Skonsumowałem towar przez 0.04933 sek.
+2021-05-27 00:27:46.605174203 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 59 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.609857084 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 59 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.634524641 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 59 Skonsumowałem towar przez 0.017883 sek.
+2021-05-27 00:27:46.639853611 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 60 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.643485439 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 60 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:46.643611159 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 60 Wyprodukowałem towar przez 0.08571 sek.
+2021-05-27 00:27:46.650770522 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 60 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.655851237 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 60 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.659929716 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 60 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:46.660928216 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 60 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:46.668064858 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 60 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.692806675 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 60 Skonsumowałem towar przez 0.017576 sek.
+2021-05-27 00:27:46.698304922 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 61 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.701883220 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 61 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:46.751858368 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 61 Wyprodukowałem towar przez 0.08309 sek.
+2021-05-27 00:27:46.757346797 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 61 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.764268903 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 61 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.769759512 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 61 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:46.770331823 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 61 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:46.776939785 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 61 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.815595776 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 62 Wyprodukowałem towar przez 0.03822 sek.
+2021-05-27 00:27:46.821260040 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 62 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.821915096 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 61 Skonsumowałem towar przez 0.03815 sek.
+2021-05-27 00:27:46.828648106 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 62 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.846456731 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 62 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:46.851368050 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 62 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.874853964 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 63 Wyprodukowałem towar przez 0.026604 sek.
+2021-05-27 00:27:46.880480572 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 63 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.885531510 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 63 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.913757727 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 64 Wyprodukowałem towar przez 0.020783 sek.
+2021-05-27 00:27:46.919359516 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 64 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:46.922912107 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 64 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:46.942465405 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 62 Skonsumowałem towar przez 0.08456 sek.
+2021-05-27 00:27:46.947605703 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 63 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:46.952179651 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 63 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:46.977850669 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 64 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:46.978328861 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 63 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:46.986888314 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 64 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.004874171 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 63 Skonsumowałem towar przez 0.018376 sek.
+2021-05-27 00:27:47.010348972 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 64 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:47.017678910 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 64 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.044864349 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 64 Skonsumowałem towar przez 0.020535 sek.
+2021-05-27 00:27:47.045446749 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 65 Wyprodukowałem towar przez 0.05184 sek.
+2021-05-27 00:27:47.050524116 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 65 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:47.054431833 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 65 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:47.061852858 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 65 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:47.066720890 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 65 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.070912387 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 65 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:47.071854123 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 65 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:47.079332418 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 65 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.117765621 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 65 Skonsumowałem towar przez 0.031838 sek.
+2021-05-27 00:27:47.122868785 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 66 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:47.126212883 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 66 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:47.144808173 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 66 Wyprodukowałem towar przez 0.06536 sek.
+2021-05-27 00:27:47.150148657 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 66 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:47.154914382 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 66 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.158961148 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 66 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:47.160455172 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 66 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:47.168301732 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 66 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.194894741 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 67 Wyprodukowałem towar przez 0.026512 sek.
+2021-05-27 00:27:47.200337374 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 67 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:47.205101232 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 67 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.225991583 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 68 Wyprodukowałem towar przez 0.014002 sek.
+2021-05-27 00:27:47.231191750 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 68 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:47.234701497 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 68 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:47.263442210 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 66 Skonsumowałem towar przez 0.08638 sek.
+2021-05-27 00:27:47.270559229 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 67 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:47.275627244 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 67 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.301038294 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 68 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.301705950 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 67 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.309530659 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 68 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.335609106 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 67 Skonsumowałem towar przez 0.025661 sek.
+2021-05-27 00:27:47.340967542 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 68 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:47.346091208 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 68 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.369808965 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 69 Wyprodukowałem towar przez 0.05192 sek.
+2021-05-27 00:27:47.375786491 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 69 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:47.381049799 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 69 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.385832067 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 68 Skonsumowałem towar przez 0.032702 sek.
+2021-05-27 00:27:47.390985361 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 69 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:47.395803142 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 69 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.430805948 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 70 Wyprodukowałem towar przez 0.04232 sek.
+2021-05-27 00:27:47.436272488 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 70 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:47.441260555 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 70 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.469233399 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 69 Skonsumowałem towar przez 0.06617 sek.
+2021-05-27 00:27:47.476040370 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 70 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:47.481395431 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 70 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.486325190 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 71 Wyprodukowałem towar przez 0.03812 sek.
+2021-05-27 00:27:47.492065992 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 71 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:47.497295938 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 71 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.526736769 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 72 Wyprodukowałem towar przez 0.021628 sek.
+2021-05-27 00:27:47.532429536 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 72 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:47.537452197 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 72 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:47.542725617 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 70 Skonsumowałem towar przez 0.05456 sek.
+2021-05-27 00:27:47.549517403 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 71 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:47.555221308 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 71 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.587244713 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 72 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.588429900 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 71 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.597344987 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 72 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.614101314 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 71 Skonsumowałem towar przez 0.016573 sek.
+2021-05-27 00:27:47.620881642 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 72 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:47.621661232 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 73 Wyprodukowałem towar przez 0.016958 sek.
+2021-05-27 00:27:47.626050425 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 72 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.632080283 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 73 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:47.636965109 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 73 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.656658030 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 74 Wyprodukowałem towar przez 0.011599 sek.
+2021-05-27 00:27:47.658286654 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 72 Skonsumowałem towar przez 0.024369 sek.
+2021-05-27 00:27:47.662872902 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 74 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:47.666666904 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 74 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:47.674167838 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 73 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:47.679858898 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 73 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.706439759 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 74 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.707332033 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 73 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.716643011 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 74 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.740895359 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 75 Wyprodukowałem towar przez 0.016202 sek.
+2021-05-27 00:27:47.747055709 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 75 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:47.750891598 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 75 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:47.785182478 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 73 Skonsumowałem towar przez 0.06865 sek.
+2021-05-27 00:27:47.790588977 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 74 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:47.798318128 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 74 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.828097748 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 75 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.829308132 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 74 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.837551063 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 75 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.905257734 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 76 Wyprodukowałem towar przez 0.06070 sek.
+2021-05-27 00:27:47.911376107 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 76 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:47.914976242 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 76 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:47.921826741 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 74 Skonsumowałem towar przez 0.08427 sek.
+2021-05-27 00:27:47.927667388 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 75 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:47.933001616 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 75 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.963840766 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 76 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.965687402 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 75 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:47.974267512 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 76 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:47.993755090 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 75 Skonsumowałem towar przez 0.018926 sek.
+2021-05-27 00:27:47.999522293 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 76 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.000896903 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 77 Wyprodukowałem towar przez 0.019715 sek.
+2021-05-27 00:27:48.004742990 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 76 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.010082938 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 77 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.014926704 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 77 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.030615946 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 76 Skonsumowałem towar przez 0.019072 sek.
+2021-05-27 00:27:48.035848075 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 77 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.040656138 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 77 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.058372670 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 77 Skonsumowałem towar przez 0.011145 sek.
+2021-05-27 00:27:48.065965153 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 78 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.069423216 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 78 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:48.084905631 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 78 Wyprodukowałem towar przez 0.06325 sek.
+2021-05-27 00:27:48.090450864 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 78 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.095906198 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 78 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.099793866 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 78 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.102206119 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 78 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.109044255 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 78 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.138440550 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 78 Skonsumowałem towar przez 0.022412 sek.
+2021-05-27 00:27:48.144176521 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 79 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.147695336 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 79 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:48.178379553 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 79 Wyprodukowałem towar przez 0.06872 sek.
+2021-05-27 00:27:48.184267939 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 79 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.190774030 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 79 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.195225735 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 79 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.197599064 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 79 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.204176043 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 79 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.224770726 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 79 Skonsumowałem towar przez 0.013578 sek.
+2021-05-27 00:27:48.231245132 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 80 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.234734540 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 80 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:48.302869489 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 80 Wyprodukowałem towar przez 0.0979 sek.
+2021-05-27 00:27:48.308333799 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 80 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.313425635 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 80 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.317746673 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 80 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.319030223 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 80 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.325784261 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 80 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.358311564 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 80 Skonsumowałem towar przez 0.023196 sek.
+2021-05-27 00:27:48.363874777 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 81 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.367505435 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 81 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:48.404007923 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 81 Wyprodukowałem towar przez 0.07760 sek.
+2021-05-27 00:27:48.409638369 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 81 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.414449647 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 81 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.418613600 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 81 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.419584639 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 81 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.426842646 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 81 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.439386284 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 82 Wyprodukowałem towar przez 0.012189 sek.
+2021-05-27 00:27:48.444812692 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 82 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.449998410 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 82 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.450928895 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 81 Skonsumowałem towar przez 0.014688 sek.
+2021-05-27 00:27:48.456426307 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 82 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.462243362 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 82 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.498940134 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 82 Skonsumowałem towar przez 0.029289 sek.
+2021-05-27 00:27:48.505104610 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 83 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.508623527 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 83 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:48.515944596 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 83 Wyprodukowałem towar przez 0.05818 sek.
+2021-05-27 00:27:48.523085525 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 83 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.529539058 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 83 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.534421656 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 83 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.535621321 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 83 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:48.543877143 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 83 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.563907719 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 84 Wyprodukowałem towar przez 0.019595 sek.
+2021-05-27 00:27:48.569593518 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 84 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.575697127 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 84 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.576835375 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 83 Skonsumowałem towar przez 0.025704 sek.
+2021-05-27 00:27:48.582710060 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 84 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.587525162 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 84 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.599135565 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 85 Wyprodukowałem towar przez 0.015440 sek.
+2021-05-27 00:27:48.604664470 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 85 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.610797620 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 85 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.635181805 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 86 Wyprodukowałem towar przez 0.016976 sek.
+2021-05-27 00:27:48.640622277 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 86 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.644231307 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 86 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:48.657722734 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 84 Skonsumowałem towar przez 0.06235 sek.
+2021-05-27 00:27:48.664061880 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 85 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.668962578 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 85 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.695552382 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 86 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:48.696032144 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 85 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:48.704100030 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 86 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.728863477 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 87 Wyprodukowałem towar przez 0.016585 sek.
+2021-05-27 00:27:48.734429119 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 87 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.737880394 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 87 Magazyn pełny, na wszystkich 3 półkach jest towar
+2021-05-27 00:27:48.744869711 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 85 Skonsumowałem towar przez 0.04038 sek.
+2021-05-27 00:27:48.750037465 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 86 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.755177648 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 86 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.784506171 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 87 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:48.785433639 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 86 Doszło do spotkania z wykorzystaniem gniazda: sock_full
+2021-05-27 00:27:48.793879142 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 87 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.810364511 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 86 Skonsumowałem towar przez 0.016581 sek.
+2021-05-27 00:27:48.815995787 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 87 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.816091531 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 88 Wyprodukowałem towar przez 0.01539 sek.
+2021-05-27 00:27:48.821407821 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 87 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.827016108 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 88 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.832293222 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 88 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.849628409 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 87 Skonsumowałem towar przez 0.021196 sek.
+2021-05-27 00:27:48.854775755 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 88 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:48.857664079 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 89 Wyprodukowałem towar przez 0.018358 sek.
+2021-05-27 00:27:48.859516291 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 88 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.864896901 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 89 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.870922550 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 89 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.895395516 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 88 Skonsumowałem towar przez 0.028401 sek.
+2021-05-27 00:27:48.900651094 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 89 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:48.905452234 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 89 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.910249689 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 90 Wyprodukowałem towar przez 0.032218 sek.
+2021-05-27 00:27:48.915480059 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 90 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.920585104 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 90 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:48.928396755 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 89 Skonsumowałem towar przez 0.016353 sek.
+2021-05-27 00:27:48.933667949 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 90 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:48.938634446 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 90 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.014967759 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 91 Wyprodukowałem towar przez 0.08716 sek.
+2021-05-27 00:27:49.020519098 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 91 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:49.025452171 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 91 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.044247728 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 90 Skonsumowałem towar przez 0.0984 sek.
+2021-05-27 00:27:49.049060772 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 92 Wyprodukowałem towar przez 0.017044 sek.
+2021-05-27 00:27:49.049573710 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 91 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:49.054309043 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 91 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.059833685 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 92 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:49.064858890 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 92 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.087535731 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 91 Skonsumowałem towar przez 0.025934 sek.
+2021-05-27 00:27:49.093035198 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 92 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:49.097871161 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 92 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.104055684 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 93 Wyprodukowałem towar przez 0.03216 sek.
+2021-05-27 00:27:49.109454317 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 93 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:49.114790780 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 93 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.133998094 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 92 Skonsumowałem towar przez 0.028983 sek.
+2021-05-27 00:27:49.139436556 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 93 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:49.144473396 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 93 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.155051016 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 94 Wyprodukowałem towar przez 0.032586 sek.
+2021-05-27 00:27:49.160808477 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 94 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:49.165643892 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 94 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.178727448 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 93 Skonsumowałem towar przez 0.026935 sek.
+2021-05-27 00:27:49.183970039 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 94 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:49.188806887 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 94 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.207348979 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 95 Wyprodukowałem towar przez 0.031050 sek.
+2021-05-27 00:27:49.212214282 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 94 Skonsumowałem towar przez 0.016543 sek.
+2021-05-27 00:27:49.213713165 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 95 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:49.218849552 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 95 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.224316698 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 95 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:49.229156160 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 95 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.256339825 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 96 Wyprodukowałem towar przez 0.030129 sek.
+2021-05-27 00:27:49.262684337 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 96 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:49.265866487 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 95 Skonsumowałem towar przez 0.02972 sek.
+2021-05-27 00:27:49.268133274 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 96 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.274206631 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 96 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:49.279044203 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 96 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.298299998 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 97 Wyprodukowałem towar przez 0.022754 sek.
+2021-05-27 00:27:49.299563986 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 96 Skonsumowałem towar przez 0.013894 sek.
+2021-05-27 00:27:49.304690719 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 97 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:49.309550998 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 97 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.315752067 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 97 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:49.320862099 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 97 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.342899335 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 97 Skonsumowałem towar przez 0.014202 sek.
+2021-05-27 00:27:49.350721402 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 98 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:49.355404039 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 98 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:49.367501424 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 98 Wyprodukowałem towar przez 0.0508 sek.
+2021-05-27 00:27:49.372951027 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 98 Bieżąca półka: 2, sprawdzam stan magazynu...
+2021-05-27 00:27:49.377963004 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 98 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.382808560 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 98 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:49.383809230 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 98 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:49.393713682 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 98 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.412262126 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 99 Wyprodukowałem towar przez 0.01827 sek.
+2021-05-27 00:27:49.418402727 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 99 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:49.421427721 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 98 Skonsumowałem towar przez 0.020871 sek.
+2021-05-27 00:27:49.424006868 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 99 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.429789785 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 99 Bieżąca półka: 3, sprawdzam stan magazynu...
+2021-05-27 00:27:49.434672499 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 99 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.461501679 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 99 Skonsumowałem towar przez 0.01922 sek.
+2021-05-27 00:27:49.467480305 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 100 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:49.471173057 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 100 Magazyn pusty, na żadnej z 3 półek nie ma towaru
+2021-05-27 00:27:49.499043613 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 100 Wyprodukowałem towar przez 0.06598 sek.
+2021-05-27 00:27:49.505364680 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 100 Bieżąca półka: 1, sprawdzam stan magazynu...
+2021-05-27 00:27:49.510302826 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 100 Odłożyłem towar na półkę: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.514350892 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 100 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:49.516182396 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO 100 Doszło do spotkania z wykorzystaniem potoku: stream_empty
+2021-05-27 00:27:49.521758134 229850.vlab.it.p.lodz.pl PID:268462 producent_konsument/producent.sh Mag.:FIFO ---Zakończenie w wyniku spełnienia kryterium zatrzymania dla 100 towarów---
+2021-05-27 00:27:49.524581535 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 100 Pobrałem towar z półki: mag_fifo_00:27:42/polka1
+2021-05-27 00:27:49.563481244 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO 100 Skonsumowałem towar przez 0.031483 sek.
+2021-05-27 00:27:49.567035518 229850.vlab.it.p.lodz.pl PID:268461 producent_konsument/konsument.sh Mag.:FIFO ---Zakończenie w wyniku spełnienia kryterium zatrzymania dla 100 towarów---

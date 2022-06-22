@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1618615983 source:c:\users\22984\desktop\semestr 4\numerki\zad 2\metodynumeryczne2\funkcje.cpp
+	"header.h"
+
+1618615575 c:\users\22984\desktop\semestr 4\numerki\zad 2\metodynumeryczne2\header.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<sstream>
+
+1618620814 source:c:\users\22984\desktop\semestr 4\numerki\zad 2\metodynumeryczne2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<sstream>
+	"header.h"
+

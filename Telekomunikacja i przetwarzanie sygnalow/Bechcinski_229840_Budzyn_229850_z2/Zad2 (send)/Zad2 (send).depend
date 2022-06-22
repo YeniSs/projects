@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618216724 source:c:\users\user\desktop\telekomunikacja\zad2 (send)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<windows.h>
+	<winbase.h>
+	<conio.h>
+	<iomanip>
+

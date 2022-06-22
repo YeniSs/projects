@@ -1,0 +1,458 @@
+2021-05-27 00:29:21.886841068 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 ___START___ Liczba filozofów: 5 Liczba posiłków: 7 Plik blokady bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK Plik potoku bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK_fifo Plik widelca pierwszego: Stol_treb/3 Plik drugiego widelca: Stol_treb/4 Czas konsumpcji: 1 Czas rozmyślania: 0.01
+2021-05-27 00:29:21.887295268 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 ___START___ Liczba filozofów: 5 Liczba posiłków: 7 Plik blokady bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK Plik potoku bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK_fifo Plik widelca pierwszego: Stol_treb/4 Plik drugiego widelca: Stol_treb/5 Czas konsumpcji: 1 Czas rozmyślania: 0.01
+2021-05-27 00:29:21.887461783 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 ___START___ Liczba filozofów: 5 Liczba posiłków: 7 Plik blokady bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK Plik potoku bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK_fifo Plik widelca pierwszego: Stol_treb/2 Plik drugiego widelca: Stol_treb/3 Czas konsumpcji: 1 Czas rozmyślania: 0.01
+2021-05-27 00:29:21.888794102 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 ___START___ Liczba filozofów: 5 Liczba posiłków: 7 Plik blokady bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK Plik potoku bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK_fifo Plik widelca pierwszego: Stol_treb/1 Plik drugiego widelca: Stol_treb/2 Czas konsumpcji: 1 Czas rozmyślania: 0.01
+2021-05-27 00:29:21.888098583 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 ___START___ Liczba filozofów: 5 Liczba posiłków: 7 Plik blokady bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK Plik potoku bariery: /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK_fifo Plik widelca pierwszego: Stol_treb/1 Plik drugiego widelca: Stol_treb/5 Czas konsumpcji: 1 Czas rozmyślania: 0.01
+2021-05-27 00:29:21.890656374 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.892797366 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.893129533 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.892170187 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.895838249 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.895824229 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.898346722 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.899290393 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.901186987 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.901782615 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.902614771 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.905343916 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.905615048 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.910836549 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:21.914306708 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 1
+2021-05-27 00:29:22.920253122 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem jedzenie posiłku 1
+2021-05-27 00:29:22.924141426 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:22.929749633 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:22.934148925 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:22.939354088 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:22.939618481 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:22.943155132 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 1
+2021-05-27 00:29:22.943155717 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 1
+2021-05-27 00:29:22.958535918 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 1
+2021-05-27 00:29:22.962228078 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:23.948686566 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem jedzenie posiłku 1
+2021-05-27 00:29:23.952741865 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:23.958623211 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:23.958794256 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:23.962408028 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:23.962948669 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:23.967811527 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:23.968322296 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:23.969165638 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:23.971616122 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 1
+2021-05-27 00:29:23.972377120 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 1
+2021-05-27 00:29:23.973523134 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 2
+2021-05-27 00:29:23.987170363 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 1
+2021-05-27 00:29:23.991028826 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:24.979609664 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem jedzenie posiłku 1
+2021-05-27 00:29:24.979782543 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem jedzenie posiłku 2
+2021-05-27 00:29:24.983596004 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:24.983855354 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:24.989374423 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:24.989304316 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:24.989258206 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:24.992782054 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:24.993571188 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:24.993607473 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:24.999563668 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:25.000668811 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:25.000498715 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:25.000833362 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:25.004024754 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 1
+2021-05-27 00:29:25.005001657 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 2
+2021-05-27 00:29:25.004763778 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 1
+2021-05-27 00:29:25.005441254 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 2
+2021-05-27 00:29:25.019672559 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 1
+2021-05-27 00:29:25.021870805 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 2
+2021-05-27 00:29:25.024055956 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:25.025404860 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.010974012 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem jedzenie posiłku 2
+2021-05-27 00:29:26.011215714 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem jedzenie posiłku 1
+2021-05-27 00:29:26.014930087 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:26.015020118 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:26.020672181 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.020761684 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:26.020586680 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:26.020760057 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.024646171 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.024684192 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:26.025026389 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:26.025219105 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.031158555 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.031020082 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:26.031616498 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.032595448 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.032486047 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:26.035446448 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 3
+2021-05-27 00:29:26.035659148 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 2
+2021-05-27 00:29:26.036640570 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.036799650 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 2
+2021-05-27 00:29:26.038023483 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 1
+2021-05-27 00:29:26.052656324 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 2
+2021-05-27 00:29:26.054459835 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 1
+2021-05-27 00:29:26.056729019 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:26.059019934 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:27.042555019 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem jedzenie posiłku 3
+2021-05-27 00:29:27.042555017 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem jedzenie posiłku 2
+2021-05-27 00:29:27.046586145 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:27.046665752 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:27.052374491 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:27.052270714 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:27.052343473 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:27.052390499 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:27.055932992 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:27.056067485 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:27.056580627 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 1
+2021-05-27 00:29:27.057652196 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:27.061853372 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:27.062955528 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:27.064461017 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:27.065827063 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 2
+2021-05-27 00:29:27.067340221 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 3
+2021-05-27 00:29:27.068800902 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 3
+2021-05-27 00:29:27.081972611 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 2
+2021-05-27 00:29:27.082644059 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 3
+2021-05-27 00:29:27.085757237 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:27.086143183 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:27.091563049 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:27.095179629 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:28.063183947 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem jedzenie posiłku 1
+2021-05-27 00:29:28.066932698 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:28.072770740 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:28.074142408 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem jedzenie posiłku 3
+2021-05-27 00:29:28.076898842 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:28.078382964 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:28.082967085 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:28.083239291 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:28.084832622 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:28.085622839 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:28.087721097 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:28.088639470 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 1
+2021-05-27 00:29:28.089342787 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:28.089818100 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:28.094589732 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:28.095350421 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:28.095665069 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:28.098146750 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 3
+2021-05-27 00:29:28.099151411 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 3
+2021-05-27 00:29:28.099363760 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 4
+2021-05-27 00:29:28.104481052 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 1
+2021-05-27 00:29:28.108063991 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:28.113297951 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 3
+2021-05-27 00:29:28.116602648 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:29.104700703 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem jedzenie posiłku 3
+2021-05-27 00:29:29.104700711 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem jedzenie posiłku 4
+2021-05-27 00:29:29.108476387 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:29.108437594 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:29.114097715 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:29.114154847 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:29.115250114 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:29.117664922 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:29.118261514 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:29.120535972 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:29.124489952 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:29.125045551 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:29.127643470 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:29.128064205 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 3
+2021-05-27 00:29:29.128138014 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:29.129759294 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 2
+2021-05-27 00:29:29.131983388 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 4
+2021-05-27 00:29:29.133502460 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 4
+2021-05-27 00:29:29.145530006 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 3
+2021-05-27 00:29:29.148132025 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 4
+2021-05-27 00:29:29.149277712 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:29.151925119 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 ___PAUZA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 4
+2021-05-27 00:29:29.157608005 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Założyłem blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:30.137380004 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem jedzenie posiłku 2
+2021-05-27 00:29:30.139181110 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem jedzenie posiłku 4
+2021-05-27 00:29:30.140957973 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:30.142842915 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:30.146655160 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:30.146895425 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:30.148153101 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:30.150460812 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:30.151445655 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:30.151940336 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:30.157237758 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:30.157427526 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:30.159316661 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:30.160015405 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:30.161029658 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:30.162348919 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 2
+2021-05-27 00:29:30.163559303 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 4
+2021-05-27 00:29:30.164931895 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 4
+2021-05-27 00:29:30.167448743 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:30.174061865 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 2
+2021-05-27 00:29:30.179282690 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 2
+2021-05-27 00:29:30.179930204 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 4
+2021-05-27 00:29:30.183176778 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:30.184024469 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 ___PAUZA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 4
+2021-05-27 00:29:30.189263730 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Nie udało się założyć blokady wyłącznej na pliku blokady /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:30.192694486 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakładam blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:31.169185326 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem jedzenie posiłku 4
+2021-05-27 00:29:31.172685269 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:31.178388294 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:31.179072991 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem jedzenie posiłku 2
+2021-05-27 00:29:31.182326606 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:31.183428187 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:31.188303742 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:31.188864303 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:31.191750775 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 4
+2021-05-27 00:29:31.192455247 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:31.197701955 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:31.198899815 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:31.201584783 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 2
+2021-05-27 00:29:31.202434899 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:31.206534659 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 4
+2021-05-27 00:29:31.207680284 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:31.209942223 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 ___PAUZA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 4
+2021-05-27 00:29:31.211245093 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 3
+2021-05-27 00:29:31.215269837 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Nie udało się założyć blokady wyłącznej na pliku blokady /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:31.217633282 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 2
+2021-05-27 00:29:31.219298309 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakładam blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:31.221903088 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:32.217418371 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem jedzenie posiłku 3
+2021-05-27 00:29:32.222164266 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:32.227717322 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:32.231297042 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:32.237867122 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:32.237792242 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:32.241554383 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:32.242597145 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 3
+2021-05-27 00:29:32.247417894 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:32.251593964 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 3
+2021-05-27 00:29:32.258613789 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 3
+2021-05-27 00:29:32.263165115 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:33.257730126 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem jedzenie posiłku 3
+2021-05-27 00:29:33.261680644 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:33.267467936 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:33.271204268 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:33.276641108 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:33.276581440 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:33.280382165 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:33.280496560 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 3
+2021-05-27 00:29:33.286388786 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:33.290165645 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 4
+2021-05-27 00:29:33.295919790 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 3
+2021-05-27 00:29:33.299786645 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:34.295876925 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem jedzenie posiłku 4
+2021-05-27 00:29:34.300055069 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:34.305526368 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:34.309426332 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:34.316285076 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:34.316416989 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:34.319836451 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 4
+2021-05-27 00:29:34.319985115 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:34.325295443 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:34.328932357 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 4
+2021-05-27 00:29:34.335730963 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 4
+2021-05-27 00:29:34.340166972 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 ___PAUZA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 4
+2021-05-27 00:29:34.345435666 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Nie udało się założyć blokady wyłącznej na pliku blokady /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:34.349088815 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakładam blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.334797935 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem jedzenie posiłku 4
+2021-05-27 00:29:35.338550688 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:35.343844295 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:35.347468236 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:35.354824586 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:35.359607660 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 4
+2021-05-27 00:29:35.375614401 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 4
+2021-05-27 00:29:35.379419206 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 ___PAUZA___ Dotarłem do połowy uczty, liczba dotychczas zjedzonych posiłków 4
+2021-05-27 00:29:35.384822635 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Nie udało się założyć blokady wyłącznej na pliku blokady /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.388448360 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakładam blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.391531892 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zdjąłem blokadę wyłączną z pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.392038840 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Założyłem blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.395008246 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2021-05-27 00:29:35.397262680 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zdjąłem blokadę wyłączną z pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.397669063 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Założyłem blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.399108914 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.401007212 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2021-05-27 00:29:35.404418300 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zdjąłem blokadę wyłączną z pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.403650139 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Założyłem blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.405663693 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.406096976 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.409293508 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2021-05-27 00:29:35.410898925 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.412461279 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zdjąłem blokadę wyłączną z pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.413699703 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.413452829 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Założyłem blokadę wyłączną na pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.413982758 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.418009022 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2021-05-27 00:29:35.418864191 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.419915580 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.421531569 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zdjąłem blokadę wyłączną z pliku /home/sysop/Pobrane/3/Kamil_Budzyn_229850_zad5_sysop2021/Sync_rSRK
+2021-05-27 00:29:35.423560522 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.422564513 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.424695248 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 5
+2021-05-27 00:29:35.426034797 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Wszyscy filozofowie dotarli do połowy uczty, kontynuuję...
+2021-05-27 00:29:35.428096037 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.429806644 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.430919961 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:35.434732282 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:36.432691864 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem jedzenie posiłku 5
+2021-05-27 00:29:36.436683332 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:36.442507390 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:36.446006860 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:36.451556713 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:36.451723609 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:36.455493452 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 5
+2021-05-27 00:29:36.455721032 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 5
+2021-05-27 00:29:36.471792970 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 5
+2021-05-27 00:29:36.475601710 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:37.461252431 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem jedzenie posiłku 5
+2021-05-27 00:29:37.464948930 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:37.470270131 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:37.470619002 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:37.473769960 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:37.476205796 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:37.478833508 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:37.479487890 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:37.482376623 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 5
+2021-05-27 00:29:37.484613147 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:37.484366923 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 5
+2021-05-27 00:29:37.488967024 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 6
+2021-05-27 00:29:37.497426051 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 5
+2021-05-27 00:29:37.501266698 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:38.491052818 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem jedzenie posiłku 5
+2021-05-27 00:29:38.494082845 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem jedzenie posiłku 6
+2021-05-27 00:29:38.495030736 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:38.497805911 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:38.500641604 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:38.500935423 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:38.503864478 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:38.504400756 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:38.506073212 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:38.507537705 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:38.512590890 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:38.512793709 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:38.512804670 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:38.513828513 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:38.516936095 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 6
+2021-05-27 00:29:38.517823731 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 5
+2021-05-27 00:29:38.517824113 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 5
+2021-05-27 00:29:38.519707321 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 6
+2021-05-27 00:29:38.533012575 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 6
+2021-05-27 00:29:38.533746588 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 5
+2021-05-27 00:29:38.537409226 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:38.538102383 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.523786954 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem jedzenie posiłku 5
+2021-05-27 00:29:39.525942266 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem jedzenie posiłku 6
+2021-05-27 00:29:39.528027886 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:39.529481914 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:39.533860428 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.534107687 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:39.536215310 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:39.536186914 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.537346264 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.538219409 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:39.540841473 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.540632079 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:39.543537242 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:39.544180021 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.547276008 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 5
+2021-05-27 00:29:39.548299953 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.548037427 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.548108445 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:39.547783274 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.552635762 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 6
+2021-05-27 00:29:39.552896320 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 7
+2021-05-27 00:29:39.552892391 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 6
+2021-05-27 00:29:39.563042978 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 5
+2021-05-27 00:29:39.567578904 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:39.569481127 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 6
+2021-05-27 00:29:39.573090977 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:40.558464389 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem jedzenie posiłku 6
+2021-05-27 00:29:40.558626618 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem jedzenie posiłku 7
+2021-05-27 00:29:40.562872063 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:40.563098150 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:40.568318093 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:40.568933161 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:40.569241634 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:40.569714692 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:40.572325929 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:40.572604250 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:40.573581555 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję podnieść widelec WID:Stol_treb/4 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:40.573412643 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 5
+2021-05-27 00:29:40.577925872 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:40.578587698 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:40.579247884 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Podniosłem widelec WID:Stol_treb/4 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:40.581610229 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 6
+2021-05-27 00:29:40.583141886 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 7
+2021-05-27 00:29:40.583673836 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 7
+2021-05-27 00:29:40.596819595 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 6
+2021-05-27 00:29:40.598443195 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 Zakończyłem rozmyślanie po posiłku 7
+2021-05-27 00:29:40.600666333 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:40.603024220 229850.vlab.it.p.lodz.pl PID:343175 FilozofID:  4 ___STOP___ Liczba zjedzonych posiłków 7
+2021-05-27 00:29:40.607169799 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:40.610779158 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję podnieść widelec WID:Stol_treb/3 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:41.579670768 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem jedzenie posiłku 5
+2021-05-27 00:29:41.583501095 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:41.589441835 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:41.589628936 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem jedzenie posiłku 7
+2021-05-27 00:29:41.593234812 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:41.596689488 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/4 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:41.602539072 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/4 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:41.602367361 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:41.603347447 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:41.606728996 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:41.608184437 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:41.607014859 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 5
+2021-05-27 00:29:41.613360857 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:41.613980125 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Podniosłem widelec WID:Stol_treb/3 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:41.616957088 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 7
+2021-05-27 00:29:41.617795106 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 7
+2021-05-27 00:29:41.626514552 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 5
+2021-05-27 00:29:41.630311739 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:41.631912616 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 Zakończyłem rozmyślanie po posiłku 7
+2021-05-27 00:29:41.635320847 229850.vlab.it.p.lodz.pl PID:343180 FilozofID:  3 ___STOP___ Liczba zjedzonych posiłków 7
+2021-05-27 00:29:42.623602240 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem jedzenie posiłku 7
+2021-05-27 00:29:42.627476429 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/3 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:42.633274103 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/3 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:42.637165013 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:42.645015901 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:42.644585923 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:42.648718956 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 7
+2021-05-27 00:29:42.649323524 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 6
+2021-05-27 00:29:42.664035239 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 Zakończyłem rozmyślanie po posiłku 7
+2021-05-27 00:29:42.667935957 229850.vlab.it.p.lodz.pl PID:343178 FilozofID:  2 ___STOP___ Liczba zjedzonych posiłków 7
+2021-05-27 00:29:43.655328498 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem jedzenie posiłku 6
+2021-05-27 00:29:43.658985532 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:43.664353205 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:43.668050412 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:43.673298705 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:43.674220658 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:43.676969138 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 6
+2021-05-27 00:29:43.678435278 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:43.683672675 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:43.689368742 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 6
+2021-05-27 00:29:43.692885735 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 6
+2021-05-27 00:29:43.697767453 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:44.694968493 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem jedzenie posiłku 6
+2021-05-27 00:29:44.698692175 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:44.703924723 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:44.707715884 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:44.713318407 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:44.717043665 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję podnieść widelec WID:Stol_treb/2 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:44.717553879 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:44.721439434 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 6
+2021-05-27 00:29:44.722686171 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Podniosłem widelec WID:Stol_treb/2 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:44.726153996 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 7
+2021-05-27 00:29:44.736757592 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 6
+2021-05-27 00:29:44.740568746 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/1 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:45.731691215 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem jedzenie posiłku 7
+2021-05-27 00:29:45.735906234 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/2 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:45.742037426 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/2 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:45.745811564 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:45.751502215 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:45.751531076 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/1 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:45.755292890 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję podnieść widelec WID:Stol_treb/5 (Próba założenia blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:45.755477644 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 7
+2021-05-27 00:29:45.760777400 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Podniosłem widelec WID:Stol_treb/5 (Uzyskanie blokady wyłącznej na pliku widelca)
+2021-05-27 00:29:45.764573629 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpocząłem jedzenie‚ czas jedzenia 1 sek., posiłek 7
+2021-05-27 00:29:45.771228056 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 Zakończyłem rozmyślanie po posiłku 7
+2021-05-27 00:29:45.775339442 229850.vlab.it.p.lodz.pl PID:343182 FilozofID:  1 ___STOP___ Liczba zjedzonych posiłków 7
+2021-05-27 00:29:46.770321084 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem jedzenie posiłku 7
+2021-05-27 00:29:46.773913515 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/5 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:46.779462043 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/5 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:46.783027722 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Próbuję odłożyć widelec WID:Stol_treb/1 (Próba zdjęcia blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:46.790000202 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Odłożyłem widelec WID:Stol_treb/1 (Zdjęcie blokady wyłącznej z pliku widelca)
+2021-05-27 00:29:46.794686451 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Rozpoczynam rozmyślanie, czas rozmyślania 0.01 sek. ostatni zjedzony posiłek 7
+2021-05-27 00:29:46.811151224 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 Zakończyłem rozmyślanie po posiłku 7
+2021-05-27 00:29:46.816138493 229850.vlab.it.p.lodz.pl PID:343176 FilozofID:  5 ___STOP___ Liczba zjedzonych posiłków 7

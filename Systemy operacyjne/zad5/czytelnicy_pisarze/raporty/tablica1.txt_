@@ -1,0 +1,200 @@
+./czytelnicy_pisarze/uruchom.sh: liczba czytelników 5, liczba pisarzy 3, liczba odczytów 5, liczba zapisów 3,     plik tablicy tablica.txt, prefiks plikow barier /tmp/bariera, czas czytania losowy, czas pisania losowy.
+2021-05-27 00:27:36.074001461 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 +++START+++ Kryterium zatrzymania: 5, plik tablicy tablica.txt, plik bariery /tmp/bariera_czytelnika_1, czas realizacji losowy ułamek sek
+2021-05-27 00:27:36.074599216 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 +++START+++ Kryterium zatrzymania: 5, plik tablicy tablica.txt, plik bariery /tmp/bariera_czytelnika_3, czas realizacji losowy ułamek sek
+********** Zatrzymanie na wspolnej barierze z pisarzami
+2021-05-27 00:27:36.074278371 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 +++START+++ Kryterium zatrzymania: 5, plik tablicy tablica.txt, plik bariery /tmp/bariera_czytelnika_2, czas realizacji losowy ułamek sek
+2021-05-27 00:27:36.075289323 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 +++START+++ Kryterium zatrzymania: 5, plik tablicy tablica.txt, plik bariery /tmp/bariera_czytelnika_5, czas realizacji losowy ułamek sek
+2021-05-27 00:27:36.074631118 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 +++START+++ Kryterium zatrzymania: 5, plik tablicy tablica.txt, plik bariery /tmp/bariera_czytelnika_4, czas realizacji losowy ułamek sek
+2021-05-27 00:27:36.078976526 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 +++START+++ Kryterium zatrzymania: 3, plik tablicy tablica.txt, plik bariery /tmp/bariera_pisarzy, czas realizacji losowy ułamek sek
+2021-05-27 00:27:36.078285022 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.079985590 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.080237831 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 +++START+++ Kryterium zatrzymania: 3, plik tablicy tablica.txt, plik bariery /tmp/bariera_pisarzy, czas realizacji losowy ułamek sek
+2021-05-27 00:27:36.080308657 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 +++START+++ Kryterium zatrzymania: 3, plik tablicy tablica.txt, plik bariery /tmp/bariera_pisarzy, czas realizacji losowy ułamek sek
+2021-05-27 00:27:36.079457590 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.080662322 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.084262408 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:36.084688240 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:36.085957844 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:36.087924557 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Rozpoczynam czytanie po raz 1 przez 0.12207 sek.
+2021-05-27 00:27:36.089572210 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Rozpoczynam czytanie po raz 1 przez 0.17900 sek.
+2021-05-27 00:27:36.089504693 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Rozpoczynam czytanie po raz 1 przez 0.3964 sek.
+2021-05-27 00:27:36.091135219 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Rozpoczynam czytanie po raz 1 przez 0.21892 sek.
+2021-05-27 00:27:36.093264477 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.100137946 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Rozpoczynam czytanie po raz 1 przez 0.24866 sek.
+2021-05-27 00:27:36.219276233 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Odczytałem:
+2021-05-27 00:27:36.222992658 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zakończyłem czytanie po raz 1.
+2021-05-27 00:27:36.228943382 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.232867634 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.240224072 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Rozpoczynam czytanie po raz 2 przez 0.6745 sek.
+2021-05-27 00:27:36.276671206 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Odczytałem:
+2021-05-27 00:27:36.280726131 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zakończyłem czytanie po raz 1.
+2021-05-27 00:27:36.286215478 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.290043978 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.295711346 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Rozpoczynam czytanie po raz 2 przez 0.6352 sek.
+2021-05-27 00:27:36.318964028 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Odczytałem:
+2021-05-27 00:27:36.322739958 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zakończyłem czytanie po raz 1.
+2021-05-27 00:27:36.328425564 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.332247855 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.337548137 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Rozpoczynam czytanie po raz 2 przez 0.23485 sek.
+2021-05-27 00:27:36.356814646 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Odczytałem:
+2021-05-27 00:27:36.361528304 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zakończyłem czytanie po raz 1.
+2021-05-27 00:27:36.366886305 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.370507826 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.375769307 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Rozpoczynam czytanie po raz 2 przez 0.4585 sek.
+2021-05-27 00:27:36.495102055 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Odczytałem:
+2021-05-27 00:27:36.498779865 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zakończyłem czytanie po raz 1.
+2021-05-27 00:27:36.503969372 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.507544140 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.512635486 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Rozpoczynam czytanie po raz 2 przez 0.9527 sek.
+2021-05-27 00:27:36.579784644 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Odczytałem:
+2021-05-27 00:27:36.583536652 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zakończyłem czytanie po raz 2.
+2021-05-27 00:27:36.588698569 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.592423214 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.597739000 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Rozpoczynam czytanie po raz 3 przez 0.29102 sek.
+2021-05-27 00:27:36.842602984 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Odczytałem:
+2021-05-27 00:27:36.846289073 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zakończyłem czytanie po raz 2.
+2021-05-27 00:27:36.851427596 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.855140116 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.860919957 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Rozpoczynam czytanie po raz 3 przez 0.4770 sek.
+2021-05-27 00:27:36.896293636 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Odczytałem:
+2021-05-27 00:27:36.899920168 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zakończyłem czytanie po raz 3.
+2021-05-27 00:27:36.905549905 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.909336206 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.915660660 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Rozpoczynam czytanie po raz 4 przez 0.23450 sek.
+2021-05-27 00:27:36.922834465 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Odczytałem:
+2021-05-27 00:27:36.926497424 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zakończyłem czytanie po raz 2.
+2021-05-27 00:27:36.932133570 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.936251130 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.937932155 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Odczytałem:
+2021-05-27 00:27:36.941736666 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zakończyłem czytanie po raz 2.
+2021-05-27 00:27:36.942137661 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Rozpoczynam czytanie po raz 3 przez 0.1273 sek.
+2021-05-27 00:27:36.946934948 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:36.950464926 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:36.955639347 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Rozpoczynam czytanie po raz 3 przez 0.1109 sek.
+2021-05-27 00:27:37.074163615 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Odczytałem:
+2021-05-27 00:27:37.076580355 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Odczytałem:
+2021-05-27 00:27:37.077701078 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zakończyłem czytanie po raz 3.
+2021-05-27 00:27:37.080321708 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zakończyłem czytanie po raz 3.
+2021-05-27 00:27:37.083051199 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.085804416 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.086554942 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:37.089557856 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:37.091403635 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Rozpoczynam czytanie po raz 4 przez 0.2131 sek.
+2021-05-27 00:27:37.094751014 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Rozpoczynam czytanie po raz 4 przez 0.12109 sek.
+2021-05-27 00:27:37.158285132 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Odczytałem:
+2021-05-27 00:27:37.161895333 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zakończyłem czytanie po raz 4.
+2021-05-27 00:27:37.166948611 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.170470494 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie PRZEJSCIE DO OSTATNIEGO ODCZYTU czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie
+2021-05-27 00:27:37.174608672 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Spróbuję zyskać możliwość przejścia przez barierę (odczytać komunikat z pliku bariery).
+2021-05-27 00:27:37.223639730 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Odczytałem:
+2021-05-27 00:27:37.227594183 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zakończyłem czytanie po raz 4.
+2021-05-27 00:27:37.233091472 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.237098169 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie PRZEJSCIE DO OSTATNIEGO ODCZYTU czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie
+2021-05-27 00:27:37.240651562 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Spróbuję zyskać możliwość przejścia przez barierę (odczytać komunikat z pliku bariery).
+2021-05-27 00:27:37.311872224 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Odczytałem:
+2021-05-27 00:27:37.315399943 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zakończyłem czytanie po raz 4.
+2021-05-27 00:27:37.320678514 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.324195814 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie PRZEJSCIE DO OSTATNIEGO ODCZYTU czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie
+2021-05-27 00:27:37.330011013 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Spróbuję zyskać możliwość przejścia przez barierę (odczytać komunikat z pliku bariery).
+2021-05-27 00:27:37.345489810 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Odczytałem:
+2021-05-27 00:27:37.349000247 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zakończyłem czytanie po raz 3.
+2021-05-27 00:27:37.354253902 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.357958176 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:37.363207211 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Rozpoczynam czytanie po raz 4 przez 0.24605 sek.
+2021-05-27 00:27:37.472857504 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Odczytałem:
+2021-05-27 00:27:37.476361713 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zakończyłem czytanie po raz 2.
+2021-05-27 00:27:37.481834304 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.485401616 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:37.490625673 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Rozpoczynam czytanie po raz 3 przez 0.20403 sek.
+2021-05-27 00:27:37.617070863 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Odczytałem:
+2021-05-27 00:27:37.620575921 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zakończyłem czytanie po raz 4.
+2021-05-27 00:27:37.625926864 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.629679644 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie PRZEJSCIE DO OSTATNIEGO ODCZYTU czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie
+2021-05-27 00:27:37.633489866 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Spróbuję zyskać możliwość przejścia przez barierę (odczytać komunikat z pliku bariery).
+2021-05-27 00:27:37.702469130 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Odczytałem:
+2021-05-27 00:27:37.706061081 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zakończyłem czytanie po raz 3.
+2021-05-27 00:27:37.711778248 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:37.712010774 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Rozpoczynam pisanie po raz 1 przez 0.1136 sek.
+2021-05-27 00:27:37.716744289 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:37.837300171 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Zakończyłem pisanie po raz 1.
+2021-05-27 00:27:37.843129069 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Rozpoczynam pisanie po raz 1 przez 0.23758 sek.
+2021-05-27 00:27:37.843006399 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:37.846732908 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:38.089781706 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Zakończyłem pisanie po raz 1.
+2021-05-27 00:27:38.095808104 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Rozpoczynam pisanie po raz 1 przez 0.7796 sek.
+2021-05-27 00:27:38.096075291 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:38.099881534 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:38.884653355 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Zakończyłem pisanie po raz 1.
+2021-05-27 00:27:38.890708512 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:38.890752154 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Rozpoczynam czytanie po raz 4 przez 0.7126 sek.
+2021-05-27 00:27:38.894503150 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:39.611322073 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Odczytałem: 2021-05-27 00:27:38.881022124 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Oto jest mój wpis nr 1
+2021-05-27 00:27:39.615841156 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zakończyłem czytanie po raz 4.
+2021-05-27 00:27:39.622475092 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:39.622595889 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Rozpoczynam pisanie po raz 2 przez 0.27354 sek.
+2021-05-27 00:27:39.626845106 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie PRZEJSCIE DO OSTATNIEGO ODCZYTU czytelnicy_pisarze producent_konsument tablica.txt to_rule_them_all.sh ucztujacy_filozofowie
+2021-05-27 00:27:39.630815172 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Spróbuję zyskać możliwość przejścia przez barierę (odczytać komunikat z pliku bariery).
+2021-05-27 00:27:39.905309127 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Zakończyłem pisanie po raz 2.
+2021-05-27 00:27:39.911417105 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:39.911643466 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Rozpoczynam pisanie po raz 2 przez 0.29579 sek.
+2021-05-27 00:27:39.915315512 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:40.217518950 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Zakończyłem pisanie po raz 2.
+2021-05-27 00:27:40.222947586 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:40.223156736 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Rozpoczynam pisanie po raz 2 przez 0.26187 sek.
+2021-05-27 00:27:40.226719516 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:40.495071289 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Zakończyłem pisanie po raz 2.
+2021-05-27 00:27:40.500862753 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:40.500895664 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Rozpoczynam pisanie po raz 3 przez 0.6159 sek.
+2021-05-27 00:27:40.504639749 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Spróbuję zyskać dostęp do pisania (założyć blokadę wyłączną na tablicy).
+2021-05-27 00:27:41.126635473 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Zakończyłem pisanie po raz 3.
+2021-05-27 00:27:41.132340378 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:41.132714099 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Rozpoczynam pisanie po raz 3 przez 0.13941 sek.
+2021-05-27 00:27:41.136245444 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 Informuję nadzorcę (uruchom.sh) o ostatnim zapisie
+2021-05-27 00:27:41.140575444 229850.vlab.it.p.lodz.pl PID:267878 pisarz nr: 1 ---STOP--- Zakończenie w wyniku spełnienia kryterium zatrzymania dla 3 cykli
+2021-05-27 00:27:41.281616332 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Zakończyłem pisanie po raz 3.
+2021-05-27 00:27:41.287405749 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Rozpoczynam pisanie po raz 3 przez 0.29483 sek.
+2021-05-27 00:27:41.287297677 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:41.291790323 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 Informuję nadzorcę (uruchom.sh) o ostatnim zapisie
+2021-05-27 00:27:41.296321695 229850.vlab.it.p.lodz.pl PID:267880 pisarz nr: 2 ---STOP--- Zakończenie w wyniku spełnienia kryterium zatrzymania dla 3 cykli
+2021-05-27 00:27:41.591984590 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Zakończyłem pisanie po raz 3.
+2021-05-27 00:27:41.598867348 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Zdjąłem blokadę wyłączną z tablicy.
+2021-05-27 00:27:41.602608239 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Informuję nadzorcę (uruchom.sh) o ostatnim zapisie
+2021-05-27 00:27:41.607554859 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 ---STOP--- Zakończenie w wyniku spełnienia kryterium zatrzymania dla 3 cykli
+********** Wszyscy pisarze zakonczyli pisanie
+2021-05-27 00:27:41.865470866 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Uzyskałem przejście przez barierę, przechodzę do ostatniego odczytu.
+2021-05-27 00:27:41.865492973 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Uzyskałem przejście przez barierę, przechodzę do ostatniego odczytu.
+2021-05-27 00:27:41.865467126 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Uzyskałem przejście przez barierę, przechodzę do ostatniego odczytu.
+2021-05-27 00:27:41.866056185 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Uzyskałem przejście przez barierę, przechodzę do ostatniego odczytu.
+2021-05-27 00:27:41.865841793 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Uzyskałem przejście przez barierę, przechodzę do ostatniego odczytu.
+2021-05-27 00:27:41.868870635 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:41.869058883 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:41.869826622 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:41.869568705 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:41.869600191 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Spróbuję zyskać dostęp do czytania (założyć blokadę współdzieloną na tablicy).
+2021-05-27 00:27:41.875045752 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Rozpoczynam czytanie po raz 5 przez 0.5397 sek.
+2021-05-27 00:27:41.876277591 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Rozpoczynam czytanie po raz 5 przez 0.6845 sek.
+2021-05-27 00:27:41.876511869 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Rozpoczynam czytanie po raz 5 przez 0.28434 sek.
+2021-05-27 00:27:41.876037112 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Rozpoczynam czytanie po raz 5 przez 0.6259 sek.
+2021-05-27 00:27:41.877476805 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Rozpoczynam czytanie po raz 5 przez 0.30366 sek.
+2021-05-27 00:27:42.169087993 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Odczytałem: 2021-05-27 00:27:41.588073658 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Oto jest mój wpis nr 3
+2021-05-27 00:27:42.172939764 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zakończyłem czytanie po raz 5.
+2021-05-27 00:27:42.178707335 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:42.182183165 229850.vlab.it.p.lodz.pl PID:267865 czytelnik nr: 3 ---STOP--- Zakończenie w wyniku spełnienia kryterium zatrzymania dla 5 cykli
+2021-05-27 00:27:42.188379941 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Odczytałem: 2021-05-27 00:27:41.588073658 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Oto jest mój wpis nr 3
+2021-05-27 00:27:42.192594920 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zakończyłem czytanie po raz 5.
+2021-05-27 00:27:42.198217195 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:42.201751179 229850.vlab.it.p.lodz.pl PID:267869 czytelnik nr: 5 ---STOP--- Zakończenie w wyniku spełnienia kryterium zatrzymania dla 5 cykli
+2021-05-27 00:27:42.424437753 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Odczytałem: 2021-05-27 00:27:41.588073658 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Oto jest mój wpis nr 3
+2021-05-27 00:27:42.428037021 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zakończyłem czytanie po raz 5.
+2021-05-27 00:27:42.433589928 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:42.437079219 229850.vlab.it.p.lodz.pl PID:267867 czytelnik nr: 4 ---STOP--- Zakończenie w wyniku spełnienia kryterium zatrzymania dla 5 cykli
+2021-05-27 00:27:42.511584868 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Odczytałem: 2021-05-27 00:27:41.588073658 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Oto jest mój wpis nr 3
+2021-05-27 00:27:42.514967772 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zakończyłem czytanie po raz 5.
+2021-05-27 00:27:42.520152833 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:42.523573708 229850.vlab.it.p.lodz.pl PID:267864 czytelnik nr: 2 ---STOP--- Zakończenie w wyniku spełnienia kryterium zatrzymania dla 5 cykli
+2021-05-27 00:27:42.570369358 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Odczytałem: 2021-05-27 00:27:41.588073658 229850.vlab.it.p.lodz.pl PID:267881 pisarz nr: 3 Oto jest mój wpis nr 3
+2021-05-27 00:27:42.574790390 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zakończyłem czytanie po raz 5.
+2021-05-27 00:27:42.581077815 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 Zdjąłem blokadę współdzieloną z tablicy.
+2021-05-27 00:27:42.585024776 229850.vlab.it.p.lodz.pl PID:267863 czytelnik nr: 1 ---STOP--- Zakończenie w wyniku spełnienia kryterium zatrzymania dla 5 cykli
+********** Wszyscy czytelnicy zakonczyli
+./czytelnicy_pisarze/uruchom.sh: ZAKONCZENIE.

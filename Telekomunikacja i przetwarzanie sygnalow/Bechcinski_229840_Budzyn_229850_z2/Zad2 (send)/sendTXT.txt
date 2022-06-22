@@ -1,0 +1,5 @@
+XMODEM is a simple file transfer protocol developed as a quick hack by Ward Christensen for use in his 1977 MODEM.ASM terminal program. It allowed users to transmit files between their computers when both sides used MODEM. Keith Petersen made a minor update to always turn on "quiet mode", and called the result XMODEM.[3]
+
+XMODEM, like most file transfer protocols, breaks up the original data into a series of "packets" that are sent to the receiver, along with additional information allowing the receiver to determine whether that packet was correctly received. If an error is detected, the receiver requests that the packet be re-sent. A string of bad packets causes the transfer to abort.
+
+XMODEM became extremely popular in the early bulletin board system (BBS) market, largely because it was simple to implement. It was also fairly inefficient, and as modem speeds increased, this problem led to the development of a number of modified versions of XMODEM to improve performance or address other problems with the protocol. Christensen believed his original XMODEM to be "the single most modified program in computing history".[4]
