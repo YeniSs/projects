@@ -1,0 +1,196 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,country,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2020,true,,,,,,,,,,,,,1371,,,,,,"1,371",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2020,true,,,,,,,,,,,,,1603,,,,,,"1,603",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2020,true,,,,,,,,,,,,,1627,,,,,,"1,627",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,GMB,Gambia,Year,2020,true,,,,,,,,,,,,,1740,,,,,,"1,740",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2020,true,,,,,,,,,,,,,101480,,,,,,"101,480",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2020,true,,,,,,,,,,,,,115,,,,,,115,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,MWI,Malawi,Year,2020,true,,,,,,,,,,,,,13564,,,,,,"13,564",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2020,true,,,,,,,,,,,,,15692,,,,,,"15,692",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2020,true,,,,,,,,,,,,,18314,,,,,,"18,314",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2020,true,,,,,,,,,,,,,18894,,,,,,"18,894",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2020,true,,,,,,,,,,,,,19366,,,,,,"19,366",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2020,true,,,,,,,,,,,,,199500,,,,,,"199,500",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,GUY,Guyana,Year,2020,true,,,,,,,,,,,,,2437,,,,,,"2,437",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,TGO,Togo,Year,2020,true,,,,,,,,,,,,,2455,,,,,,"2,455",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2020,true,,,,,,,,,,,,,2519,,,,,,"2,519",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2020,true,,,,,,,,,,,,,2623,,,,,,"2,623",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2020,true,,,,,,,,,,,,,2917,,,,,,"2,917",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2020,true,,,,,,,,,,,,,20000,,,,,,"20,000",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2020,true,,,,,,,,,,,,,218665,,,,,,"218,665",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2020,true,,,,,,,,,,,,,22126,,,,,,"22,126",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2020,true,,,,,,,,,,,,,22499,,,,,,"22,499",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,POL,Poland,Year,2020,true,,,,,,,,,,,,,231612,,,,,,"231,612",,National Reporting Instrument (NRI)- 2021 Code reporting,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2020,true,,,,,,,,,,,,,26314,,,,,,"26,314",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2020,true,,,,,,,,,,,,,3118,,,,,,"3,118",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2020,true,,,,,,,,,,,,,362061,,,,,,"362,061",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,GAB,Gabon,Year,2020,true,,,,,,,,,,,,,4700,,,,,,"4,700",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2020,true,,,,,,,,,,,,,40066,,,,,,"40,066",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2020,true,,,,,,,,,,,,,41,,,,,,41,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,CAN,Canada,Year,2020,true,,,,,,,,,,,,,417921,,,,,,"417,921",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2020,true,,,,,,,,,,,,,44700,,,,,,"44,700",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2020,true,,,,,,,,,,,,,461,,,,,,461,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2020,true,,,,,,,,,,,,,5727,,,,,,"5,727",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,UGA,Uganda,Year,2020,true,,,,,,,,,,,,,51327,,,,,,"51,327",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2020,true,,,,,,,,,,,,,53933,,,,,,"53,933",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2020,true,,,,,,,,,,,,,568158,,,,,,"568,158",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2020,true,,,,,,,,,,,,,570,,,,,,570,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2020,true,,,,,,,,,,,,,6981,,,,,,"6,981",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2020,true,,,,,,,,,,,,,615829,,,,,,"615,829",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2020,true,,,,,,,,,,,,,62075,,,,,,"62,075",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2020,true,,,,,,,,,,,,,66973,,,,,,"66,973",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2020,true,,,,,,,,,,,,,67520,,,,,,"67,520",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2020,true,,,,,,,,,,,,,69824,,,,,,"69,824",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2020,true,,,,,,,,,,,,,7713,,,,,,"7,713",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2020,true,,,,,,,,,,,,,7968,,,,,,"7,968",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2020,true,,,,,,,,,,,,,74084,,,,,,"74,084",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2020,true,,,,,,,,,,,,,8831,,,,,,"8,831",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2020,true,,,,,,,,,,,,,860869,,,,,,"860,869",,National Reporting Instrument (NRI)- 2021 Code reporting,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2020,true,,,,,,,,,,,,,89990,,,,,,"89,990",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2020,true,,,,,,,,,,,,,95789,,,,,,"95,789",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2020,true,,,,,,,,,,,,,96900,,,,,,"96,900",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2019,true,,,,,,,,,,,,,1160000,,,,,,"1,160,000",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2019,true,,,,,,,,,,,,,10409,,,,,,"10,409",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2019,true,,,,,,,,,,,,,11259,,,,,,"11,259",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,true,,,,,,,,,,,,,11364,,,,,,"11,364",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2019,true,,,,,,,,,,,,,110,,,,,,110,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,true,,,,,,,,,,,,,111324,,,,,,"111,324",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2019,true,,,,,,,,,,,,,13612,,,,,,"13,612",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,TKL,Tokelau,Year,2019,true,,,,,,,,,,,,,15,,,,,,15,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,true,,,,,,,,,,,,,15673,,,,,,"15,673",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2019,true,,,,,,,,,,,,,154004,,,,,,"154,004",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2019,true,,,,,,,,,,,,,180709,,,,,,"180,709",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,true,,,,,,,,,,,,,194907,,,,,,"194,907",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,TUR,Türkiye,Year,2019,true,,,,,,,,,,,,,198103,,,,,,"198,103",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,SUR,Suriname,Year,2019,true,,,,,,,,,,,,,2172,,,,,,"2,172",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,BEN,Benin,Year,2019,true,,,,,,,,,,,,,2670,,,,,,"2,670",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2019,true,,,,,,,,,,,,,21464,,,,,,"21,464",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,true,,,,,,,,,,,,,219473,,,,,,"219,473",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2019,true,,,,,,,,,,,,,230,,,,,,230,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,URY,Uruguay,Year,2019,true,,,,,,,,,,,,,24429,,,,,,"24,429",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2019,true,,,,,,,,,,,,,277633,,,,,,"277,633",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2019,true,,,,,,,,,,,,,3256,,,,,,"3,256",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,true,,,,,,,,,,,,,3975,,,,,,"3,975",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2019,true,,,,,,,,,,,,,30109,,,,,,"30,109",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2019,true,,,,,,,,,,,,,309906,,,,,,"309,906",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2019,true,,,,,,,,,,,,,31308,,,,,,"31,308",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,true,,,,,,,,,,,,,33518,,,,,,"33,518",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,true,,,,,,,,,,,,,353,,,,,,353,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2019,true,,,,,,,,,,,,,36251,,,,,,"36,251",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2019,true,,,,,,,,,,,,,360210,,,,,,"360,210",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2019,true,,,,,,,,,,,,,4445047,,,,,,"4,445,047",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,true,,,,,,,,,,,,,40830,,,,,,"40,830",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2019,true,,,,,,,,,,,,,410694,,,,,,"410,694",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,true,,,,,,,,,,,,,440,,,,,,440,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2019,true,,,,,,,,,,,,,5636,,,,,,"5,636",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,true,,,,,,,,,,,,,512719,,,,,,"512,719",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2019,true,,,,,,,,,,,,,56142,,,,,,"56,142",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,SEN,Senegal,Year,2019,true,,,,,,,,,,,,,6151,,,,,,"6,151",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2019,true,,,,,,,,,,,,,610,,,,,,610,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2019,true,,,,,,,,,,,,,64722,,,,,,"64,722",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2019,true,,,,,,,,,,,,,72798,,,,,,"72,798",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,FRA,France,Year,2019,true,,,,,,,,,,,,,744307,,,,,,"744,307",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2019,true,,,,,,,,,,,,,77115,,,,,,"77,115",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2019,true,,,,,,,,,,,,,8279,,,,,,"8,279",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,true,,,,,,,,,,,,,88571,,,,,,"88,571",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,true,,,,,,,,,,,,,9483,,,,,,"9,483",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2019,true,,,,,,,,,,,,,91354,,,,,,"91,354",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2019,true,,,,,,,,,,,,,92115,,,,,,"92,115",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2018,true,,,,,,,,,,,,,1195,,,,,,"1,195",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,COM,Comoros,Year,2018,true,,,,,,,,,,,,,1234,,,,,,"1,234",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2018,true,,,,,,,,,,,,,1413,,,,,,"1,413",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2018,true,,,,,,,,,,,,,1487444,,,,,,"1,487,444",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,BHS,Bahamas,Year,2018,true,,,,,,,,,,,,,1761,,,,,,"1,761",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2018,true,,,,,,,,,,,,,10379,,,,,,"10,379",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2018,true,,,,,,,,,,,,,10399,,,,,,"10,399",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2018,true,,,,,,,,,,,,,11483,,,,,,"11,483",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2018,true,,,,,,,,,,,,,11778,,,,,,"11,778",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2018,true,,,,,,,,,,,,,110441,,,,,,"110,441",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2018,true,,,,,,,,,,,,,115988,,,,,,"115,988",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2018,true,,,,,,,,,,,,,12344,,,,,,"12,344",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,AGO,Angola,Year,2018,true,,,,,,,,,,,,,12554,,,,,,"12,554",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2018,true,,,,,,,,,,,,,133657,,,,,,"133,657",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2018,true,,,,,,,,,,,,,17257,,,,,,"17,257",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2018,true,,,,,,,,,,,,,189579,,,,,,"189,579",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2018,true,,,,,,,,,,,,,19057,,,,,,"19,057",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2018,true,,,,,,,,,,,,,19712,,,,,,"19,712",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2018,true,,,,,,,,,,,,,195,,,,,,195,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2018,true,,,,,,,,,,,,,2228,,,,,,"2,228",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2018,true,,,,,,,,,,,,,2368,,,,,,"2,368",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2018,true,,,,,,,,,,,,,2530,,,,,,"2,530",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,NIU,Niue,Year,2018,true,,,,,,,,,,,,,20,,,,,,20,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2018,true,,,,,,,,,,,,,22377,,,,,,"22,377",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2018,true,,,,,,,,,,,,,287458,,,,,,"287,458",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2018,true,,,,,,,,,,,,,3403,,,,,,"3,403",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2018,true,,,,,,,,,,,,,3726,,,,,,"3,726",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,MLT,Malta,Year,2018,true,,,,,,,,,,,,,3772,,,,,,"3,772",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2018,true,,,,,,,,,,,,,3833,,,,,,"3,833",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2018,true,,,,,,,,,,,,,30589,,,,,,"30,589",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2018,true,,,,,,,,,,,,,31940,,,,,,"31,940",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,NER,Niger,Year,2018,true,,,,,,,,,,,,,4107,,,,,,"4,107",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,HTI,Haiti,Year,2018,true,,,,,,,,,,,,,4227,,,,,,"4,227",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,NAM,Namibia,Year,2018,true,,,,,,,,,,,,,4784,,,,,,"4,784",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2018,true,,,,,,,,,,,,,4971,,,,,,"4,971",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2018,true,,,,,,,,,,,,,4986,,,,,,"4,986",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,AIA,Anguilla,Year,2018,true,,,,,,,,,,,,,40,,,,,,40,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2018,true,,,,,,,,,,,,,406,,,,,,406,,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2018,true,,,,,,,,,,,,,42811,,,,,,"42,811",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2018,true,,,,,,,,,,,,,443,,,,,,443,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2018,true,,,,,,,,,,,,,47882,,,,,,"47,882",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,COG,Congo,Year,2018,true,,,,,,,,,,,,,5081,,,,,,"5,081",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,USA,United States of America,Year,2018,true,,,,,,,,,,,,,5130507,,,,,,"5,130,507",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2018,true,,,,,,,,,,,,,5174,,,,,,"5,174",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2018,true,,,,,,,,,,,,,5757,,,,,,"5,757",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,DZA,Algeria,Year,2018,true,,,,,,,,,,,,,56411,,,,,,"56,411",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2018,true,,,,,,,,,,,,,58509,,,,,,"58,509",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2018,true,,,,,,,,,,,,,59690,,,,,,"59,690",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,KEN,Kenya,Year,2018,true,,,,,,,,,,,,,59901,,,,,,"59,901",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,LSO,Lesotho,Year,2018,true,,,,,,,,,,,,,6866,,,,,,"6,866",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,HND,Honduras,Year,2018,true,,,,,,,,,,,,,6986,,,,,,"6,986",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,GIN,Guinea,Year,2018,true,,,,,,,,,,,,,7195,,,,,,"7,195",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,GRD,Grenada,Year,2018,true,,,,,,,,,,,,,700,,,,,,700,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2018,true,,,,,,,,,,,,,706,,,,,,706,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2018,true,,,,,,,,,,,,,773,,,,,,773,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,PER,Peru,Year,2018,true,,,,,,,,,,,,,78048,,,,,,"78,048",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,PSE,Occupied Palestinian territory,Year,2018,true,,,,,,,,,,,,,8286,,,,,,"8,286",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,BWA,Botswana,Year,2018,true,,,,,,,,,,,,,8500,,,,,,"8,500",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2018,true,,,,,,,,,,,,,84,,,,,,84,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2018,true,,,,,,,,,,,,,85732,,,,,,"85,732",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,BRB,Barbados,Year,2018,true,,,,,,,,,,,,,877,,,,,,877,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,BLZ,Belize,Year,2018,true,,,,,,,,,,,,,897,,,,,,897,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2018,true,,,,,,,,,,,,,9156,,,,,,"9,156",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,LBR,Liberia,Year,2018,true,,,,,,,,,,,,,9415,,,,,,"9,415",,"Source:The state of the health workforce in the WHO African Region, 2021 report",EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2018,true,,,,,,,,,,,,,93326,,,,,,"93,326",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2017,true,,,,,,,,,,,,,105125,,,,,,"105,125",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,ARG,Argentina,Year,2017,true,,,,,,,,,,,,,114219,,,,,,"114,219",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,ROU,Romania,Year,2017,true,,,,,,,,,,,,,141821,,,,,,"141,821",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,true,,,,,,,,,,,,,17449,,,,,,"17,449",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,,,,,,,,,,,,,28739,,,,,,"28,739",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2017,true,,,,,,,,,,,,,35636,,,,,,"35,636",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2017,true,,,,,,,,,,,,,41934,,,,,,"41,934",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,DMA,Dominica,Year,2017,true,,,,,,,,,,,,,436,,,,,,436,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2017,true,,,,,,,,,,,,,45326,,,,,,"45,326",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2017,true,,,,,,,,,,,,,476,,,,,,476,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2017,true,,,,,,,,,,,,,6992,,,,,,"6,992",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2017,true,,,,,,,,,,,,,9912,,,,,,"9,912",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2016,true,,,,,,,,,,,,,106654,,,,,,"106,654",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2016,true,,,,,,,,,,,,,26908,,,,,,"26,908",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2016,true,,,,,,,,,,,,,34184,,,,,,"34,184",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,SRB,Serbia,Year,2016,true,,,,,,,,,,,,,53881,,,,,,"53,881",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2016,true,,,,,,,,,,,,,6145,,,,,,"6,145",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2015,true,,,,,,,,,,,,,118693,,,,,,"118,693",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,ARM,Armenia,Year,2015,true,,,,,,,,,,,,,13262,,,,,,"13,262",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2015,true,,,,,,,,,,,,,216,,,,,,216,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,AND,Andorra,Year,2015,true,,,,,,,,,,,,,296,,,,,,296,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2015,true,,,,,,,,,,,,,3422,,,,,,"3,422",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2015,true,,,,,,,,,,,,,7884,,,,,,"7,884",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2015,true,,,,,,,,,,,,,98875,,,,,,"98,875",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2014,true,,,,,,,,,,,,,23090,,,,,,"23,090",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,SMR,San Marino,Year,2014,true,,,,,,,,,,,,,253,,,,,,253,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2014,true,,,,,,,,,,,,,284207,,,,,,"284,207",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2014,true,,,,,,,,,,,,,318196,,,,,,"318,196",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2014,true,,,,,,,,,,,,,34696,,,,,,"34,696",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2014,true,,,,,,,,,,,,,488,,,,,,488,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2014,true,,,,,,,,,,,,,56148,,,,,,"56,148",,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EUR,Europe,Country,MCO,Monaco,Year,2014,true,,,,,,,,,,,,,732,,,,,,732,,,EN,2022-01-09T23:00:00.000Z
+HWF_0008,Nursing personnel (number),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2014,true,,,,,,,,,,,,,825,,,,,,825,,,EN,2022-01-09T23:00:00.000Z

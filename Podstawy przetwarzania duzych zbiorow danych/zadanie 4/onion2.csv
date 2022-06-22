@@ -1,0 +1,230 @@
+state,district,market,commodity,variety,time,min_price,max_price,modal_price
+Rajasthan,Sirohi,Abu Road,Onion,Other,01/02/2020,3475,3525,3500
+Rajasthan,Sirohi,Abu Road,Onion,Other,02/02/2020,3475,3525,3500
+Rajasthan,Sirohi,Abu Road,Onion,Other,03/02/2020,3175,3225,3200
+Rajasthan,Sirohi,Abu Road,Onion,Other,04/02/2020,3775,3825,3800
+Punjab,Fazilka,Abohar,Onion,Onion,05/02/2020,3300,3840,3670
+Punjab,Fazilka,Abohar,Onion,Onion,06/02/2020,3200,3800,3450
+Punjab,Fazilka,Abohar,Onion,Onion,07/02/2020,3000,3500,3200
+Punjab,Fazilka,Abohar,Onion,Onion,08/02/2020,2400,3100,2526
+Rajasthan,Sirohi,Abu Road,Onion,Other,09/02/2020,2975,3025,3000
+Punjab,Fazilka,Abohar,Onion,Onion,10/02/2020,2100,2563,2256
+Punjab,Fazilka,Abohar,Onion,Onion,11/02/2020,2050,2429,2327
+Punjab,Fazilka,Abohar,Onion,Onion,12/02/2020,1238,2560,2313
+Punjab,Fazilka,Abohar,Onion,Onion,13/02/2020,2300,2525,2371
+Punjab,Fazilka,Abohar,Onion,Onion,14/02/2020,2300,2564,2471
+Punjab,Fazilka,Abohar,Onion,Onion,15/02/2020,2349,2595,2426
+Rajasthan,Sirohi,Abu Road,Onion,Other,16/02/2020,2775,2825,2800
+Punjab,Fazilka,Abohar,Onion,Onion,17/02/2020,2300,2518,2488
+Punjab,Fazilka,Abohar,Onion,Onion,18/02/2020,2300,2528,2354
+Punjab,Fazilka,Abohar,Onion,Onion,19/02/2020,2294,2538,2400
+Punjab,Fazilka,Abohar,Onion,Onion,20/02/2020,2279,2475,2329
+Rajasthan,Sirohi,Abu Road,Onion,Other,21/02/2020,2475,2525,2500
+Punjab,Fazilka,Abohar,Onion,Onion,22/02/2020,2318,2400,2318
+Rajasthan,Sirohi,Abu Road,Onion,Other,23/02/2020,2475,2525,2500
+Punjab,Fazilka,Abohar,Onion,Onion,24/02/2020,2300,2549,2400
+Punjab,Fazilka,Abohar,Onion,Onion,25/02/2020,2300,2565,2391
+Punjab,Fazilka,Abohar,Onion,Onion,26/02/2020,2342,2500,2463
+Punjab,Fazilka,Abohar,Onion,Onion,27/02/2020,2249,2454,2400
+Punjab,Fazilka,Abohar,Onion,Onion,28/02/2020,2235,2617,2389
+Punjab,Fazilka,Abohar,Onion,Onion,29/02/2020,2505,2636,2505
+Rajasthan,Sirohi,Abu Road,Onion,Other,01/03/2020,2475,2525,2500
+Punjab,Fazilka,Abohar,Onion,Onion,02/03/2020,2440,2574,2517
+Punjab,Fazilka,Abohar,Onion,Onion,03/03/2020,1400,2483,2081
+Punjab,Fazilka,Abohar,Onion,Onion,04/03/2020,1371,2473,2100
+Punjab,Fazilka,Abohar,Onion,Onion,05/03/2020,1708,2400,2300
+Punjab,Fazilka,Abohar,Onion,Onion,06/03/2020,1890,2430,2239
+Punjab,Fazilka,Abohar,Onion,Onion,07/03/2020,1840,2392,2150
+Rajasthan,Sirohi,Abu Road,Onion,Other,08/03/2020,1975,2025,2000
+Punjab,Fazilka,Abohar,Onion,Onion,09/03/2020,1350,2222,1835
+Punjab,Fazilka,Abohar,Onion,Onion,10/03/2020,1829,2192,2015
+Rajasthan,Sirohi,Abu Road,Onion,Other,11/03/2020,1975,2025,2000
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,12/03/2020,2000,2200,2100
+Rajasthan,Sirohi,Abu Road,Onion,Other,13/03/2020,2175,2225,2200
+Rajasthan,Sirohi,Abu Road,Onion,Other,14/03/2020,2175,2225,2200
+Rajasthan,Sirohi,Abu Road,Onion,Other,15/03/2020,2175,2225,2200
+Punjab,Fazilka,Abohar,Onion,Onion,16/03/2020,1330,2366,1835
+Punjab,Fazilka,Abohar,Onion,Onion,17/03/2020,1560,2311,2159
+Punjab,Fazilka,Abohar,Onion,Onion,18/03/2020,1560,2300,2162
+Punjab,Fazilka,Abohar,Onion,Onion,19/03/2020,1695,2190,2015
+Punjab,Fazilka,Abohar,Onion,Onion,20/03/2020,1500,2013,1863
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,21/03/2020,1850,1950,1900
+Kerala,Kollam,Anchal,Onion,Other,22/03/2020,2500,2500,2500
+Punjab,Fazilka,Abohar,Onion,Onion,23/03/2020,1960,2818,2024
+Uttar Pradesh,Agra,Achnera,Onion,Red,24/03/2020,1650,1750,1700
+Uttar Pradesh,Agra,Achnera,Onion,Red,25/03/2020,1750,1850,1800
+Punjab,Fazilka,Abohar,Onion,Onion,26/03/2020,2500,3000,2750
+Rajasthan,Sirohi,Abu Road,Onion,Other,27/03/2020,2875,2925,2900
+Punjab,Fazilka,Abohar,Onion,Onion,28/03/2020,2400,3000,2800
+Rajasthan,Sirohi,Abu Road,Onion,Other,29/03/2020,2475,2525,2500
+Punjab,Fazilka,Abohar,Onion,Onion,30/03/2020,1972,2596,2501
+Rajasthan,Sirohi,Abu Road,Onion,Other,31/03/2020,1975,2025,2000
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,01/04/2020,2000,2200,2100
+Punjab,Fazilka,Abohar,Onion,Onion,02/04/2020,1500,2500,2000
+Punjab,Fazilka,Abohar,Onion,Onion,03/04/2020,1400,2500,1950
+Rajasthan,Sirohi,Abu Road,Onion,Other,04/04/2020,2475,2525,2500
+Uttar Pradesh,Agra,Achnera,Onion,Red,05/04/2020,1750,1850,1800
+Punjab,Fazilka,Abohar,Onion,Onion,06/04/2020,1500,2000,1800
+Punjab,Fazilka,Abohar,Onion,Onion,07/04/2020,1400,2000,1900
+Punjab,Fazilka,Abohar,Onion,Onion,08/04/2020,1500,2000,1850
+Punjab,Fazilka,Abohar,Onion,Onion,09/04/2020,1200,2000,1500
+Punjab,Fazilka,Abohar,Onion,Onion,10/04/2020,1200,1800,1500
+Punjab,Fazilka,Abohar,Onion,Onion,11/04/2020,1100,1800,1500
+Rajasthan,Sirohi,Abu Road,Onion,Other,12/04/2020,1575,1625,1600
+Punjab,Fazilka,Abohar,Onion,Onion,13/04/2020,1200,1800,1500
+Punjab,Fazilka,Abohar,Onion,Onion,14/04/2020,1100,1800,1500
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,15/04/2020,1300,1400,1350
+Rajasthan,Sirohi,Abu Road,Onion,Other,16/04/2020,1775,1825,1800
+Punjab,Fazilka,Abohar,Onion,Onion,17/04/2020,1200,1700,1500
+Rajasthan,Sirohi,Abu Road,Onion,Other,18/04/2020,1475,1525,1500
+Rajasthan,Sirohi,Abu Road,Onion,Other,19/04/2020,1175,1225,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,20/04/2020,1275,1325,1300
+Punjab,Fazilka,Abohar,Onion,Onion,21/04/2020,1200,1500,1350
+Rajasthan,Sirohi,Abu Road,Onion,Other,22/04/2020,1275,1325,1300
+Punjab,Fazilka,Abohar,Onion,Onion,23/04/2020,1000,1500,1400
+Rajasthan,Sirohi,Abu Road,Onion,Other,24/04/2020,1475,1525,1500
+Rajasthan,Sirohi,Abu Road,Onion,Other,25/04/2020,1175,1225,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,26/04/2020,975,1025,1000
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,27/04/2020,1150,1230,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,28/04/2020,975,1025,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,29/04/2020,1275,1325,1300
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,30/04/2020,1250,1350,1300
+Rajasthan,Sirohi,Abu Road,Onion,Other,01/05/2020,1275,1325,1300
+Rajasthan,Sirohi,Abu Road,Onion,Other,02/05/2020,1175,1225,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,03/05/2020,1175,1225,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,04/05/2020,1175,1225,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,05/05/2020,975,1025,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,06/05/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,07/05/2020,800,1500,1200
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,08/05/2020,780,860,800
+Punjab,Fazilka,Abohar,Onion,Onion,09/05/2020,800,1500,1250
+Uttar Pradesh,Agra,Achnera,Onion,Red,10/05/2020,1050,1150,1100
+Rajasthan,Sirohi,Abu Road,Onion,Other,11/05/2020,775,825,800
+Rajasthan,Sirohi,Abu Road,Onion,Other,12/05/2020,975,1025,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,13/05/2020,975,1025,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,14/05/2020,975,1025,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,15/05/2020,875,925,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,16/05/2020,875,925,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,17/05/2020,875,925,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,18/05/2020,775,825,800
+Rajasthan,Sirohi,Abu Road,Onion,Other,19/05/2020,775,825,800
+Rajasthan,Sirohi,Abu Road,Onion,Other,20/05/2020,775,825,800
+Rajasthan,Sirohi,Abu Road,Onion,Other,21/05/2020,675,725,700
+Rajasthan,Sirohi,Abu Road,Onion,Other,22/05/2020,675,725,700
+Rajasthan,Sirohi,Abu Road,Onion,Other,23/05/2020,775,825,800
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,24/05/2020,800,900,840
+Rajasthan,Sirohi,Abu Road,Onion,Other,25/05/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,26/05/2020,600,900,800
+Punjab,Fazilka,Abohar,Onion,Onion,27/05/2020,700,900,800
+Punjab,Fazilka,Abohar,Onion,Onion,28/05/2020,700,900,800
+Rajasthan,Sirohi,Abu Road,Onion,Other,29/05/2020,875,925,900
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,30/05/2020,800,900,880
+Rajasthan,Sirohi,Abu Road,Onion,Other,31/05/2020,875,925,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,01/06/2020,975,1025,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,02/06/2020,975,1025,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,03/06/2020,775,825,800
+Punjab,Fazilka,Abohar,Onion,Onion,04/06/2020,700,1200,1000
+Punjab,Fazilka,Abohar,Onion,Onion,05/06/2020,600,1000,800
+Punjab,Fazilka,Abohar,Onion,Onion,06/06/2020,700,1100,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,07/06/2020,875,925,900
+Punjab,Fazilka,Abohar,Onion,Onion,08/06/2020,800,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,09/06/2020,875,925,900
+Punjab,Fazilka,Abohar,Onion,Onion,10/06/2020,900,1200,1100
+Rajasthan,Sirohi,Abu Road,Onion,Other,11/06/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,12/06/2020,1000,1400,1250
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,13/06/2020,800,850,820
+Rajasthan,Sirohi,Abu Road,Onion,Other,14/06/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,15/06/2020,1000,1400,1250
+Rajasthan,Sirohi,Abu Road,Onion,Other,16/06/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,17/06/2020,800,1500,1200
+Punjab,Jalandhar,Adampur,Onion,Other,18/06/2020,1100,0,1200
+Punjab,Fazilka,Abohar,Onion,Onion,19/06/2020,1000,1400,1200
+Punjab,Fazilka,Abohar,Onion,Onion,20/06/2020,1000,1300,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,21/06/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,22/06/2020,900,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,23/06/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,24/06/2020,900,1300,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,25/06/2020,1175,1225,1200
+Punjab,Fazilka,Abohar,Onion,Onion,26/06/2020,800,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,27/06/2020,875,925,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,28/06/2020,875,925,900
+Punjab,Fazilka,Abohar,Onion,Onion,29/06/2020,800,1300,1000
+Uttar Pradesh,Agra,Achnera,Onion,Red,30/06/2020,980,1060,1020
+Rajasthan,Sirohi,Abu Road,Onion,Other,01/07/2020,875,925,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,02/07/2020,875,925,900
+Punjab,Fazilka,Abohar,Onion,Onion,03/07/2020,1000,1400,1200
+Punjab,Fazilka,Abohar,Onion,Onion,04/07/2020,1050,1400,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,05/07/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,06/07/2020,900,1200,1050
+Rajasthan,Sirohi,Abu Road,Onion,Other,07/07/2020,1075,1125,1100
+Punjab,Fazilka,Abohar,Onion,Onion,08/07/2020,900,1200,1000
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,09/07/2020,1100,1200,1140
+Rajasthan,Sirohi,Abu Road,Onion,Other,10/07/2020,775,825,800
+Punjab,Fazilka,Abohar,Onion,Onion,11/07/2020,800,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,12/07/2020,775,825,800
+Punjab,Fazilka,Abohar,Onion,Onion,13/07/2020,850,1200,1050
+Rajasthan,Sirohi,Abu Road,Onion,Other,14/07/2020,775,825,800
+Punjab,Fazilka,Abohar,Onion,Onion,15/07/2020,800,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,16/07/2020,775,825,800
+Punjab,Fazilka,Abohar,Onion,Onion,17/07/2020,750,1200,900
+Punjab,Fazilka,Abohar,Onion,Onion,18/07/2020,800,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,19/07/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,20/07/2020,600,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,21/07/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,22/07/2020,700,1100,900
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,23/07/2020,1100,1200,1150
+Punjab,Fazilka,Abohar,Onion,Onion,24/07/2020,700,1100,950
+Punjab,Fazilka,Abohar,Onion,Onion,25/07/2020,600,1200,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,26/07/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,27/07/2020,650,1200,950
+Rajasthan,Sirohi,Abu Road,Onion,Other,28/07/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,29/07/2020,700,1100,850
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,30/07/2020,1100,1200,1150
+Punjab,Fazilka,Abohar,Onion,Onion,31/07/2020,800,1200,1000
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,01/08/2020,1100,1200,1150
+Rajasthan,Sirohi,Abu Road,Onion,Other,02/08/2020,875,925,900
+Punjab,Fazilka,Abohar,Onion,Onion,03/08/2020,700,1100,1000
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,04/08/2020,1100,1200,1140
+Punjab,Fazilka,Abohar,Onion,Onion,05/08/2020,700,1000,800
+Rajasthan,Sirohi,Abu Road,Onion,Other,06/08/2020,975,1025,1000
+Punjab,Fazilka,Abohar,Onion,Onion,07/08/2020,900,1200,1000
+Punjab,Fazilka,Abohar,Onion,Onion,08/08/2020,700,1100,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,09/08/2020,775,825,800
+Punjab,Fazilka,Abohar,Onion,Onion,10/08/2020,750,1100,900
+Rajasthan,Sirohi,Abu Road,Onion,Other,11/08/2020,775,825,800
+Punjab,Fazilka,Abohar,Onion,Onion,12/08/2020,800,1100,900
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,13/08/2020,1000,1100,1040
+Punjab,Fazilka,Abohar,Onion,Onion,14/08/2020,750,1100,950
+Punjab,Fazilka,Abohar,Onion,Onion,15/08/2020,750,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,16/08/2020,1175,1225,1200
+Punjab,Fazilka,Abohar,Onion,Onion,17/08/2020,800,1200,1000
+Rajasthan,Sirohi,Abu Road,Onion,Other,18/08/2020,1975,2025,2000
+Rajasthan,Sirohi,Abu Road,Onion,Other,19/08/2020,2475,2525,2500
+Rajasthan,Sirohi,Abu Road,Onion,Other,20/08/2020,1175,1225,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,21/08/2020,1175,1225,1200
+Punjab,Fazilka,Abohar,Onion,Onion,22/08/2020,1000,1400,1200
+Rajasthan,Sirohi,Abu Road,Onion,Other,23/08/2020,1175,1225,1200
+Punjab,Fazilka,Abohar,Onion,Onion,24/08/2020,1000,1500,1200
+Punjab,Fazilka,Abohar,Onion,Onion,25/08/2020,1000,1500,1200
+Punjab,Fazilka,Abohar,Onion,Onion,26/08/2020,1200,1600,1400
+Rajasthan,Sirohi,Abu Road,Onion,Other,27/08/2020,1375,1425,1400
+Rajasthan,Sirohi,Abu Road,Onion,Other,28/08/2020,1175,1225,1200
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,29/08/2020,1200,1300,1250
+Uttar Pradesh,Agra,Achnera,Onion,Red,30/08/2020,1100,1180,1140
+Punjab,Fazilka,Abohar,Onion,Onion,31/08/2020,1200,1600,1400
+Rajasthan,Sirohi,Abu Road,Onion,Other,01/09/2020,1775,1825,1800
+Rajasthan,Sirohi,Abu Road,Onion,Other,02/09/2020,1775,1825,1800
+Punjab,Fazilka,Abohar,Onion,Onion,03/09/2020,1500,2200,2000
+Punjab,Fazilka,Abohar,Onion,Onion,04/09/2020,1500,2300,2000
+Rajasthan,Sirohi,Abu Road,Onion,Other,05/09/2020,1775,1825,1800
+Rajasthan,Sirohi,Abu Road,Onion,Other,06/09/2020,1875,1925,1900
+Rajasthan,Sirohi,Abu Road,Onion,Other,07/09/2020,1475,0,1500
+Punjab,Fazilka,Abohar,Onion,Onion,08/09/2020,1500,2200,2000
+Rajasthan,Sirohi,Abu Road,Onion,Other,09/09/2020,1975,2025,2000
+Rajasthan,Sirohi,Abu Road,Onion,Other,10/09/2020,1775,1825,1800
+Rajasthan,Sirohi,Abu Road,Onion,Other,11/09/2020,1975,2025,2000
+Rajasthan,Sirohi,Abu Road,Onion,Other,12/09/2020,2175,2225,2200
+Rajasthan,Sirohi,Abu Road,Onion,Other,13/09/2020,1975,2025,2000
+Punjab,Fazilka,Abohar,Onion,Onion,14/09/2020,2000,2800,2500
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,15/09/2020,2200,2300,2250
+Uttar Pradesh,Auraiya,Achalda,Onion,Red,16/09/2020,2000,2200,2100
