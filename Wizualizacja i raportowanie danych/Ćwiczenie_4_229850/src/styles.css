@@ -1,0 +1,52 @@
+:root {
+  --fill: yellow;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.app-container {
+  display: flex;
+}
+
+.map-container {
+  display: flex;
+  height: 100vh;
+  width: 50vw;
+  align-items: center;
+  justify-content: center;
+  background-color: #333;
+}
+
+.map {
+  width: 45vw;
+}
+
+.svg-map__location[aria-checked="true"] {
+  fill: var(--fill);
+  stroke: black;
+  stroke-width: 5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.right-container {
+  width: 50vw;
+  height: 100vh;
+  background-color: #a1d99b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner-right-container {
+  height: 70vh;
+  width: 40vw;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
